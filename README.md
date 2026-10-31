@@ -4,6 +4,18 @@
 
 直接使用软件，请先看通俗版 [用前读我.txt](用前读我.txt)。该文件也会随运行包一起发布。
 
+## 下载与使用
+
+**[下载 Windows x64 运行包](https://github.com/Jhon-FU/Fu-repository/releases/latest/download/WordMachineCommunity-win-x64.zip)** · [全部版本与更新说明](https://github.com/Jhon-FU/Fu-repository/releases)
+
+1. 下载 `WordMachineCommunity-win-x64.zip`，完整解压到准备长期使用的文件夹。
+2. 打开文件夹中的 `WordMachineCommunity.exe`，首次运行选择词库。
+3. 需要开机启动时，在软件菜单中开启；需要撤销时，运行同目录的 `撤销开机自启动.cmd`。
+
+运行包自带 .NET 运行时，无需安装开发工具或另行安装 .NET。当前提供 Windows x64 版本。Release 页的 `Source code (zip)` / `Source code (tar.gz)` 是源码，直接使用请下载上述运行包。每个版本同时提供 `SHA256SUMS.txt` 校验文件。
+
+运行包不含任何人的学习记录或 API Key。更新前退出旧程序并备份自己的数据；默认学习数据保存在 `%LOCALAPPDATA%\WordMachineCommunity\`，解压新程序不会替换这些记录。
+
 本版本从个人版独立整理；代码、数据目录和运行实例均独立。它不读取个人版的账号。开机自启动由用户在菜单中一键开启，首次运行不会自动注册。无需登录，学习记录保存在本机，导入文件不会上传。
 
 ## 当前实现
@@ -44,6 +56,9 @@ dotnet run --project src/Cet6WordMachine/Cet6WordMachine.csproj
 # 生成可直接运行的程序，输出到 artifacts/release
 powershell -ExecutionPolicy Bypass -File scripts/build.ps1
 
+# 从当前 Git 提交打包版本化运行包和 SHA256 校验文件（需要 PowerShell 7）
+pwsh -File scripts/package-release.ps1 -Version 0.1.0
+
 # 运行调度回归和词库专项测试（使用独立临时账号）
 powershell -ExecutionPolicy Bypass -File scripts/test.ps1
 
@@ -53,6 +68,8 @@ python scripts/verify_wordbanks.py
 ```
 
 首次构建需要还原 .NET 运行时包。项目不依赖付费词典 API；日常学习、词库导入和导出均可离线完成。
+
+维护者推送 `v主版本.次版本.修订版本` 标签后，Release 工作流会先验证词库和运行回归测试，再构建自包含运行包并发布到 GitHub Releases。对应更新说明放在 `docs/releases/<标签>.md`。普通代码推送仍只运行构建与测试，不会自动发布新版本。
 
 ## 错题卡与答题隐藏
 

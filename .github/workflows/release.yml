@@ -1,0 +1,46 @@
+name: Publish Windows release
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+permissions:
+  contents: read
+jobs:
+  release:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate version and release notes
+        shell: pwsh
+        run: |
+          if ($env:GITHUB_REF_NAME -notmatch '^v\d+\.\d+\.\d+$') { throw 'Expected a vMAJOR.MINOR.PATCH tag.' }
+          if (!(Test-Path -LiteralPath "docs/releases/$env:GITHUB_REF_NAME.md")) { throw 'Release notes are missing.' }
+      - name: Check bundled dictionaries
+        run: python scripts/verify_wordbanks.py
+      - name: Run regression tests
+        shell: pwsh
+        run: ./scripts/test.ps1
+      - name: Build clean self-contained release
+        shell: pwsh
+        run: ./scripts/package-release.ps1 -Version $env:GITHUB_REF_NAME.Substring(1) -SourceCommit $env:GITHUB_SHA -OutputDirectory artifacts/github-release
+      - name: Publish release with downloadable assets
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release create $env:GITHUB_REF_NAME `
+            artifacts/github-release/WordMachineCommunity-win-x64.zip `
+            artifacts/github-release/SHA256SUMS.txt `
+            --verify-tag --latest `
+            --title "单词机社区版 $env:GITHUB_REF_NAME" `
+            --notes-file "docs/releases/$env:GITHUB_REF_NAME.md"
+          if ($LASTEXITCODE -ne 0) { throw 'GitHub Release publication failed.' }

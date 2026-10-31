@@ -2,6 +2,10 @@
 
 本项目代码采用 GPL-3.0-only；本文件同时说明词库素材，不能用代码许可证替代第三方的原有声明。
 
+## 自包含 .NET 运行时
+
+GitHub Release 运行包包含 .NET 与 Windows Desktop 运行时。打包脚本从实际用于发布的运行时包中复制上游许可证及第三方声明，放入运行包的 `licenses/`；它们保留各自的许可，不以本项目的代码许可证替代。
+
 ## ECDICT
 
 - 仓库：https://github.com/skywind3000/ECDICT
