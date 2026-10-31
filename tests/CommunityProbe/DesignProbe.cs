@@ -33,12 +33,16 @@ internal static partial class Program
             Check(Control<Label>(main, "TodayNewCount").Text == "2" && Control<Label>(main, "TodayReviewCount").Text == "0", "Home task counts use real state");
             DumpLayout(main, "design-home"); Screenshot(main, "design-home");
             VisibleIn(main, "StartLearningButton");
+            VisibleIn(main, "AiSettingsHomeButton");
             VisibleIn(main, "ApplicationTitle"); VisibleIn(main, "CurrentWordBankLabel");
             var wide = main.ClientSize;
             main.ClientSize = new Size(Math.Max(UiLayout.Pixels(main, 680), main.MinimumSize.Width), Math.Max(UiLayout.Pixels(main, 560), main.MinimumSize.Height));
             Application.DoEvents(); DumpLayout(main, "design-home-narrow"); Screenshot(main, "design-home-narrow");
             Check(!Field<Panel>(main, "_content").HorizontalScroll.Visible, "Narrow home does not scroll horizontally");
             VisibleIn(main, "LearningPlanButton");
+            VisibleIn(main, "AiSettingsHomeButton");
+            var aiButton = Control<Button>(main, "AiSettingsHomeButton");
+            Check(TextRenderer.MeasureText(aiButton.Text, aiButton.Font).Width < aiButton.Width - UiLayout.Pixels(main, 16), "Home AI label fits at narrow width");
             main.ClientSize = wide;
             main.Close(); Application.DoEvents();
             Check(!main.IsDisposed && Field<bool>(main, "_persistentStatus"), "Ordinary close is blocked before completing tasks");

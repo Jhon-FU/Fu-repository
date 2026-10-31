@@ -32,7 +32,7 @@ internal sealed partial class MainForm
         Menu("今日任务", "TodayMenuItem", () => ShowHome(_state.ActiveSession is { Completed: false }));
         Menu("词库管理", "WordBankManagerMenuItem", ShowWordBankManager);
         Menu("学习计划", "LearningPlanMenuItem", ShowLearningPlan);
-        Menu("AI 设置", "AiSettingsMenuItem", ShowAiSettings);
+        Menu("AI 联想设置", "AiSettingsMenuItem", ShowAiSettings);
         Menu("已跳过词", "SkippedWordsMenu", ShowSkippedWords);
         _applicationMenu.Items.Add(new ToolStripSeparator());
         _enableStartupMenuItem = new ToolStripMenuItem("一键开启开机自启动") { Name = "EnableAutoStartMenuItem", Padding = new Padding(9, 5, 9, 5) };
@@ -89,7 +89,7 @@ internal sealed partial class MainForm
         var total = _engine.LearningTargetCount(_state);
         var panel = new TableLayoutPanel { ColumnCount = 1, RowCount = 5, BackColor = PageColor, Margin = Padding.Empty };
         panel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100));
-        foreach (var height in new[] { 64, 230, 32, 60, 48 }) panel.RowStyles.Add(new RowStyle(SizeType.Absolute, height));
+        foreach (var height in new[] { 64, 230, 22, 60, 58 }) panel.RowStyles.Add(new RowStyle(SizeType.Absolute, height));
         var heading = new TableLayoutPanel { Dock = DockStyle.Fill, ColumnCount = 2, RowCount = 1, Margin = Padding.Empty };
         heading.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 65)); heading.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 35));
         heading.Controls.Add(UiTheme.Label(completed ? "今天已完成" : "今天的任务", 23, true), 0, 0);
@@ -129,8 +129,12 @@ internal sealed partial class MainForm
         progress.Controls.Add(fraction, 1, 0);
         var bar = new SlimProgress { Dock = DockStyle.Fill, Value = learned, Maximum = total, AccessibleName = $"已学 {learned}，共 {total} 词", Margin = Padding.Empty };
         progress.Controls.Add(bar, 0, 1); progress.SetColumnSpan(bar, 2); panel.Controls.Add(progress, 0, 3);
-        var plan = UiTheme.Button("学习计划 ↗"); plan.Name = "LearningPlanButton"; plan.Quiet = true; plan.Anchor = AnchorStyles.Right; plan.Margin = Padding.Empty;
-        plan.Click += (_, _) => ShowLearningPlan(); panel.Controls.Add(plan, 0, 4);
+        var ai = UiTheme.Button("AI 联想 · DeepSeek", true); ai.Name = "AiSettingsHomeButton";
+        ai.Click += (_, _) => ShowAiSettings();
+        _toolTips.SetToolTip(ai, "设置自己的 DeepSeek API Key，在学习和逐词复习中生成联想");
+        var plan = UiTheme.Button("学习计划"); plan.Name = "LearningPlanButton";
+        plan.Click += (_, _) => ShowLearningPlan();
+        panel.Controls.Add(EqualActions(ai, plan), 0, 4);
         AddCenteredPage(panel, "HomePage", 680, 434);
     }
 
@@ -192,7 +196,7 @@ internal sealed partial class MainForm
         "词库与进度\r\n每个词库分别保存任务和进度，切换回来可继续。首次使用新词库时可沿用同词同义的进度。\r\n\r\n" +
         "跳过与恢复\r\n跳过的词不再安排学习或复习；可在菜单的“已跳过词”中恢复。\r\n\r\n" +
         "学习计划\r\n自动计划优先预留复习时间；可设置每日数量、考试日期或新词学完日期。已开始的今日任务保留原数量。\r\n\r\n" +
-        "AI 联想（可选）\r\n在 AI 设置中填写自己的 DeepSeek Key，然后在“我的联想”中点击 AI 生成。仅发送当前词、音标和释义，费用由你的 API 账号承担。结果可修改，点击保存后才生效；已保存的联想可离线使用。\r\n\r\n" +
+        "AI 联想（可选）\r\n从首页“AI 联想 · DeepSeek”或菜单“AI 联想设置”填写自己的 DeepSeek Key。学习和逐词复习时均可打开“我的联想”，手动编辑或点击 AI 生成。仅发送当前词、音标和释义，费用由你的 API 账号承担。点击保存后才生效；已保存的联想可离线使用。\r\n\r\n" +
         "来源与开源许可\r\n词库管理中的“词库说明与来源”保留完整来源信息。开源许可及第三方声明随程序提供。");
 
     private void HideStatus()

@@ -67,6 +67,29 @@ internal sealed partial class MainForm
         return table;
     }
 
+    private void EditHint(WordEntry entry, Label hint)
+    {
+        var resumeTimer = _dayTimer.Enabled;
+        _dayTimer.Stop();
+        try
+        {
+            using var editor = new HintEditorForm(entry, GetHint(entry), _aiServices);
+            if (editor.ShowDialog(this) != DialogResult.OK) return;
+            if (GetToday() != _currentDate)
+            {
+                CheckForNewDay(); SetStatus("日期已变化，请在今日任务中重新编辑联想。", true); return;
+            }
+            if (!TrySaveChange(candidate =>
+            {
+                if (string.IsNullOrWhiteSpace(editor.HintText)) candidate.CustomHints.Remove(entry.Word);
+                else candidate.CustomHints[entry.Word] = editor.HintText;
+            })) return;
+            hint.Text = GetHint(entry); hint.Visible = !string.IsNullOrWhiteSpace(hint.Text);
+            SetStatus("联想已保存。", false);
+        }
+        finally { if (resumeTimer && !IsDisposed) _dayTimer.Start(); }
+    }
+
     private void ShowStudyCard()
     {
         if (_session is null) return;
@@ -96,28 +119,7 @@ internal sealed partial class MainForm
             ShowSessionStep();
         };
         var edit = UiTheme.Button("我的联想"); edit.Name = "EditStudyHint";
-        edit.Click += (_, _) =>
-        {
-            var resumeTimer = _dayTimer.Enabled;
-            _dayTimer.Stop();
-            try
-            {
-                using var editor = new HintEditorForm(entry, GetHint(entry), _aiServices);
-                if (editor.ShowDialog(this) != DialogResult.OK) return;
-                if (GetToday() != _currentDate)
-                {
-                    CheckForNewDay(); SetStatus("日期已变化，请在今日任务中重新编辑联想。", true); return;
-                }
-                if (!TrySaveChange(candidate =>
-                {
-                    if (string.IsNullOrWhiteSpace(editor.HintText)) candidate.CustomHints.Remove(entry.Word);
-                    else candidate.CustomHints[entry.Word] = editor.HintText;
-                })) return;
-                hint.Text = GetHint(entry); hint.Visible = !string.IsNullOrWhiteSpace(hint.Text);
-                SetStatus("联想已保存。", false);
-            }
-            finally { if (resumeTimer && !IsDisposed) _dayTimer.Start(); }
-        };
+        edit.Click += (_, _) => EditHint(entry, hint);
         var skip = BuildSkipWordButton(entry.Word, ShowAfterWordSkipped); skip.Text = "跳过此词";
         var actions = EqualActions(edit, skip, next); actions.Visible = false;
         var actionHost = new Panel { Dock = DockStyle.Fill, Margin = Padding.Empty };

@@ -76,8 +76,11 @@ internal sealed partial class MainForm
         var entry = _engine.GetWord(words[index]);
         ClearContent();
         var root = FocusLayout(entry, $"逐词复习  {index + 1} / {words.Count}", out _, out var body);
+        var hint = DetailLabel(GetHint(entry), "ReviewHint");
         ScrollDetails(body, DetailLabel(entry.Meaning, "ReviewMeaning", true),
-            DetailLabel(GetHint(entry), "ReviewHint"), DetailLabel(entry.Example, "ReviewExample"));
+            hint, DetailLabel(entry.Example, "ReviewExample"));
+        var edit = UiTheme.Button("我的联想"); edit.Name = "EditReviewHint";
+        edit.Click += (_, _) => EditHint(entry, hint);
         var previous = UiTheme.Button("上一个"); previous.Name = "ReviewPrevious"; previous.Enabled = index > 0;
         previous.Click += (_, _) => ShowWordReview(session, index - 1);
         var next = UiTheme.Button("下一个", true); next.Name = "ReviewNext"; next.Enabled = index + 1 < words.Count;
@@ -85,7 +88,7 @@ internal sealed partial class MainForm
         var back = UiTheme.Button("返回结果"); back.Name = "ReviewBack";
         back.Click += (_, _) => ShowResults(session, false);
         var skip = BuildSkipWordButton(entry.Word, () => ShowWordReview(SavedSession(session), index)); skip.Text = "跳过此词";
-        root.Controls.Add(EqualActions(back, skip, previous, next), 0, 1);
+        root.Controls.Add(EqualActions(back, edit, skip, previous, next), 0, 1);
         AddCenteredPage(root, "WordReviewPage", 760, 500, flexible: true);
     }
 }

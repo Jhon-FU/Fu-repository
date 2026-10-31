@@ -29,7 +29,7 @@ internal static partial class Program
         using var host = new Form { ShowInTaskbar = false, StartPosition = FormStartPosition.Manual, Location = new Point(-20000, -20000) };
         host.Shown += (_, _) => host.BeginInvoke(new Action(() =>
         {
-            try { TestAiDialogs(); TestAiIntegration(); }
+            try { TestAiDialogs(); TestAiIntegration(); TestReviewHints(); }
             catch (Exception ex) { failure = ex; }
             finally { host.Close(); }
         }));
@@ -252,6 +252,17 @@ internal static partial class Program
             using var main = new MainForm(new StartupRegistration(new MemoryStartupEntryStore(), Environment.ProcessPath, false, blocked: true), new AiServices(store, generator));
             ShowOffscreen(main); Check(store.Loads == 0 && generator.Generations == 0, "App startup does not load credentials or call AI");
             Check(Field<ContextMenuStrip>(main, "_applicationMenu").Items.Cast<ToolStripItem>().Any(i => i.Name == "AiSettingsMenuItem"), "Menu exposes AI settings");
+            var beforeSettings = File.ReadAllBytes(StateStore.StatePath);
+            InModal<AiSettingsForm>(main, "AiSettingsHomeButton", settings =>
+            {
+                Check(!Field<System.Windows.Forms.Timer>(main, "_dayTimer").Enabled, "Home AI settings pause day transition while editing");
+                Control<TextBox>(settings, "AiApiKey").Text = "";
+                Click(settings, "CancelAiSettings");
+            });
+            Check(store.Saves == 0 && store.Value.ApiKey == FakeKey, "Cancelling home AI settings preserves existing configuration");
+            InModal<AiSettingsForm>(main, "AiSettingsHomeButton", settings => Click(settings, "SaveAiSettings"));
+            Check(store.Saves == 1 && generator.Generations == 0 && generator.Connections == 0, "Home settings save explicitly without making any network request");
+            Check(Field<System.Windows.Forms.Timer>(main, "_dayTimer").Enabled && beforeSettings.SequenceEqual(File.ReadAllBytes(StateStore.StatePath)), "Home settings restore timer and preserve learning progress");
             Click(main, "StartLearningButton"); Click(main, "StudyRating1"); var saved = File.ReadAllBytes(StateStore.StatePath);
             main.BeginInvoke(new Action(() =>
             {
