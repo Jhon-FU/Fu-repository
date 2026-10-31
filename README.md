@@ -57,7 +57,7 @@ dotnet run --project src/Cet6WordMachine/Cet6WordMachine.csproj
 powershell -ExecutionPolicy Bypass -File scripts/build.ps1
 
 # 从当前 Git 提交打包版本化运行包和 SHA256 校验文件（需要 PowerShell 7）
-pwsh -File scripts/package-release.ps1 -Version 0.1.0
+pwsh -File scripts/package-release.ps1 -Version 0.1.1
 
 # 运行调度回归和词库专项测试（使用独立临时账号）
 powershell -ExecutionPolicy Bypass -File scripts/test.ps1
@@ -83,9 +83,11 @@ python scripts/verify_wordbanks.py
 
 ## AI 联想（可选）
 
-1. 打开 **菜单 → AI 设置**，填写自己的 DeepSeek API Key，选择模型。可先点“测试连接”，再保存。
-2. 在词卡的 **我的联想** 中点击 **AI 生成**。没有 Key 时会先打开设置；设置后需再次明确点击生成。
+1. 点击首页的 **AI 联想 · DeepSeek**，填写自己的 DeepSeek API Key，选择模型；也可从 **菜单 → AI 联想设置** 进入。可先点“测试连接”，再保存。
+2. 学习词卡和完成页的 **逐词复习** 都可以打开 **我的联想**，手动编辑或点击 **AI 生成**。没有 Key 时会先打开设置；设置后需再次明确点击生成。
 3. 可以手动修改、点击“换一种”重新生成，或“撤回生成”恢复上一次生成前的内容。只有点击 **保存** 才写入当前词库的个人联想。
+
+逐词复习直接展示已保存的联想，修改后立即更新；清空并保存会恢复词库自带的联想。修改联想不会改变检测成绩、历史答案或复习安排。
 
 内置提示词鼓励天马行空、幽默、荒诞但有内在逻辑的画面，连接单词与词义，突出一个记忆点；**80 字以内，不设最低字数**。虚构拆词只能作为记忆技巧，不能冒充真实词源。
 
