@@ -1,0 +1,260 @@
+{
+  "collectedOn": "2026-10-31",
+  "dictionary": {
+    "repository": "https://github.com/skywind3000/ECDICT",
+    "file": "ecdict.csv",
+    "gitBlobSha": "0e527e22e0e0d22f012b0ed251a8dddd5891773b",
+    "sha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc",
+    "license": "MIT",
+    "licenseBlobSha": "594da8a1009c6a9b96d0fe8d1689aa192cf187fe"
+  },
+  "schoolCurricula": [
+    {
+      "title": "普通高中英语课程标准（2017年版2020年修订）",
+      "url": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517522153664167.pdf",
+      "host": "人民教育出版社",
+      "retrievedOn": "2026-10-31",
+      "sha256": "8ebd6bb12e9eb1c58e422ee01b540a4a71d2e681a4c4a764a36ee3a34b21c1be",
+      "pages": 220
+    },
+    {
+      "title": "普通高中英语课程标准（2017年版2025年修订）",
+      "url": "https://cdn.zizzs.com/zixunzhan/普通高中英语课程标准日常修订版（2017年版2025年修订）1762759636958.pdf",
+      "hostingNote": "公开镜像；文件封面署教育部，内文版本及词汇说明已核对。2020版另有人民教育出版社原站留存。",
+      "sha256": "4d2d0f33e511dc0d239d2cdc53fe16f38a107afde9bd1ae557cec9ce7bb1bba0",
+      "retrievedOn": "2026-10-31",
+      "extractionScope": "PDF pages 76-132, appendix 2 only",
+      "parsedHeadwordsAliasesAndPhraseComponents": 3162
+    }
+  ],
+  "scope": "Reading passages only. No listening, options, questions, writing, translation or answer explanations. Four-level frequency uses CET4 passages; six-level frequency uses CET6 passages.",
+  "threshold": {
+    "minimumExamMonths": 3,
+    "minimumYears": 2,
+    "minimumOccurrences": 5
+  },
+  "personalProgressUsed": false,
+  "supplementarySchoolLists": [
+    {
+      "name": "BeiShiGaoZhong_10_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_10_T.json",
+      "gitBlob": "d6ead789cc9ea1f1cd23ba6d93fdc35bc0232117",
+      "sha256": "9c5e0a80e35a50e23ed8e8e337aaa27ec00c0ca6df58fdcca15a48f9bd516ad2",
+      "entries": 267,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_11_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_11_T.json",
+      "gitBlob": "7b26309b7a68d7baa90b3649576c03fe31827978",
+      "sha256": "6aeef111db05111b0a33ed3b177224e7e85d03298292a429c041a6e6048cbf8c",
+      "entries": 330,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_1_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_1_T.json",
+      "gitBlob": "aeee801cf87b231c8173fdeb60969836ef4a6b60",
+      "sha256": "b9b6eda33859d5e78e104cc2e4d29846546426cac324b85a4d6f88baecdbca8e",
+      "entries": 226,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_2_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_2_T.json",
+      "gitBlob": "0168b40a878a718da0b6245659d9e3541355941d",
+      "sha256": "0d66c871e681e53c3253914ffb6a357904f251131a49517e3d6e84aecef8ee2b",
+      "entries": 244,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_3_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_3_T.json",
+      "gitBlob": "50650c7535084ce42280d00f66c905935a852a86",
+      "sha256": "703da5a06d604b3e8a041b2505c45959959ceb23377691d3ae3aa80c0e4e64ca",
+      "entries": 295,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_4_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_4_T.json",
+      "gitBlob": "26ef278bda8640c7384eebcf1d9e296066c37838",
+      "sha256": "3bc3df56125c9e33063df904387ba4a2cdf9cca8572ece1c567546446a53b2c2",
+      "entries": 336,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_5_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_5_T.json",
+      "gitBlob": "e653bf2283a2b68770090fe4a7eef580a0eca7ad",
+      "sha256": "dd9bbf0f2a5e4a2e0a99b39e708f5103f35df0fe524a44a4d5345cbc105f3600",
+      "entries": 327,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_6_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_6_T.json",
+      "gitBlob": "30035d41ea321fd193a37a0f7d23a993c76ee11f",
+      "sha256": "09f364bdce084a911253f962df2a9e11837268c9c21fcd74757326e14b4ae793",
+      "entries": 271,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_7_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_7_T.json",
+      "gitBlob": "5294546a8deb43e836448212a2394242efe3e767",
+      "sha256": "c93412839efd8a16ded6f18adcce380ed0dd4234ed127eb2f73514a2a4882a29",
+      "entries": 334,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_8_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_8_T.json",
+      "gitBlob": "69455b4d24ee743e5f68662d3065b1af34ac7790",
+      "sha256": "3c893548ad46b03539448a7a5f4dfe59096a3f7b9a17db71cb9026a611004991",
+      "entries": 364,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "BeiShiGaoZhong_9_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/BeiShiGaoZhong_9_T.json",
+      "gitBlob": "e7dbbc2bf41b8f4608d45e395dbe87a0d8956b2a",
+      "sha256": "a6d191581398b7919991cc6cab4fdebd758dcff4e67bb027f5e51328f5ba967e",
+      "entries": 299,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "GaoKaoZhenTiHeXinGaoPin.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/GaoKaoZhenTiHeXinGaoPin.json",
+      "gitBlob": "b8bbaf2e1ba48a654a0ab02d7ee02b81165db3bd",
+      "sha256": "5c6db4a8b111e5742fe660e86f56b1f6feab0c9633492b0630518379062c4891",
+      "entries": 799,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "GaoZhongluan_2_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/GaoZhongluan_2_T.json",
+      "gitBlob": "1e9d9874d13d9038a08b51d72affe21a972f4d55",
+      "sha256": "4f09e71acda7d4b6ad6d3d87a635b3ae43b57d474968c9fc8d11b90d8a3e1ea9",
+      "entries": 3668,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_10_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_10_T.json",
+      "gitBlob": "5bc67e47962b60df85f61c4fc3ec87163fff5262",
+      "sha256": "fec8108547e1f37d3951e3327cf7b1f63afda28bc15dd2df3d7d75558f1e3af9",
+      "entries": 361,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_11_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_11_T.json",
+      "gitBlob": "cfb133d6fbe487bdd28aa8edc805171b9482bd0f",
+      "sha256": "f800cb5cce3136003439a3feb5f7be3fe7d9ee777432c2b5eebf09c96d0343f6",
+      "entries": 309,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_1_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_1_T.json",
+      "gitBlob": "daa5b0cde61a1ff1016527fd406c56560d1d6322",
+      "sha256": "e61d00d73ed7973e1b43100d8db7599625a13271982817a16906bd5b8cc79662",
+      "entries": 311,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_2_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_2_T.json",
+      "gitBlob": "0588efb81157b99f5a537430880ac3541ee63395",
+      "sha256": "1e1bce6e4369229396152c4eafa3a4835398b20e5abd4114980eaf884de9c886",
+      "entries": 319,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_3_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_3_T.json",
+      "gitBlob": "40835756a775ea1c0b9c4b2719d738d523136ad6",
+      "sha256": "b52000e5ee45158e89448cbe7bcfaf99f7cb493a966d3a4fe7f38a6d2500ed2c",
+      "entries": 366,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_4_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_4_T.json",
+      "gitBlob": "a15f679320fd20eaed3326fce0ff402c281eb48e",
+      "sha256": "527dfdf6d7e8c76ce26ce93945b6945ee639c790ad168e07b772ebe34e5c92f3",
+      "entries": 307,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_5_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_5_T.json",
+      "gitBlob": "6dda4aac0764a4260f23020c03dabfa35d96f58e",
+      "sha256": "a8bd2b6c1cffcaedb3497833a6f642ee4718270d241525d7c263292e3db95b0a",
+      "entries": 357,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_6_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_6_T.json",
+      "gitBlob": "8bbc07bee403f3f206b37ef121cc5b4302c172b3",
+      "sha256": "132daee8295d81023594a5d3b9fc161eb4c303135da239f44f21deb3a47eec2e",
+      "entries": 391,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_7_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_7_T.json",
+      "gitBlob": "9c0b40531b20630238fd452916bae3ad9ef50a4e",
+      "sha256": "391c12427358ba9b9256095b6c3ecc780d07cd19459eaf769e38c3817e00c74f",
+      "entries": 384,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_8_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_8_T.json",
+      "gitBlob": "3ccaf8cba6ca80468f535fd75bbf8ae5871d9661",
+      "sha256": "9d7c65aa3af8a9d375cba3e52ed0a2db26e6cfd3b9450393ec183ecf2197da5f",
+      "entries": 420,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "PEPGaoZhong_9_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/PEPGaoZhong_9_T.json",
+      "gitBlob": "1db30f924b30fdc4ab0b2ccf1217985b1d0660db",
+      "sha256": "5f612b041ade5d7c80b85cf0f7aa55e8e953935b5cc1229401658648199fcab6",
+      "entries": 352,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "WaiYanSheGaoZhong_1_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/WaiYanSheGaoZhong_1_T.json",
+      "gitBlob": "ddadf12a30512defed40dcf927be2cf6cd90cf26",
+      "sha256": "4f708a3fa9dc8a78cdb2d6430065f4eac660be2566694694e4cbcd09b527ccb9",
+      "entries": 411,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "WaiYanSheGaoZhong_2_T.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/WaiYanSheGaoZhong_2_T.json",
+      "gitBlob": "56907d0dec59521b441bce0f8f01b13f88dd47dd",
+      "sha256": "942e3fe361da0151511a6d41dd81a922515fe02acfed68ca39bfce90f928b7ec",
+      "entries": 272,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    },
+    {
+      "name": "gaokao-yuedu-gaopin.json",
+      "url": "https://raw.githubusercontent.com/RealKai42/qwerty-learner/master/public/dicts/gaokao-yuedu-gaopin.json",
+      "gitBlob": "668991bf27792bb98003cb3d0d63f25f708d1d22",
+      "sha256": "7679cc6eae5f7f3a8acfcdc334481531cae3d28ad048c17bf0bb0cfa12381ac5",
+      "entries": 688,
+      "sourceType": "third-party textbook/exam-list transcription; supplementary exclusion evidence"
+    }
+  ],
+  "supplementarySourceLicense": {
+    "repository": "https://github.com/RealKai42/qwerty-learner",
+    "gitBlobSha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+    "file": "licenses/Qwerty-LICENSE.txt"
+  }
+}

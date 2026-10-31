@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cet4-pure",
+    "name": "纯四级词库",
+    "count": 570,
+    "sha256": "ec6d18ae47bba9d34725be2ec954d74751f1ccea7ae1b194381540adc14cabd0"
+  },
+  {
+    "id": "cet4-high",
+    "name": "四级高频词库",
+    "count": 63,
+    "sha256": "b0cf11dbdf357841b03bca6fcd56a40ed965d91fb28431d65db3d9eaadf6a981"
+  },
+  {
+    "id": "cet6-pure",
+    "name": "纯六级词库",
+    "count": 1363,
+    "sha256": "dd0b3d15fe3e5fbb76bcaf67565504aa00c7e357e5a945b12057a2332a8f18ad"
+  },
+  {
+    "id": "cet6-high",
+    "name": "六级高频词库",
+    "count": 90,
+    "sha256": "c4bacb7ea4f80cc094d7848eca1389e7b4e3d7b439e587c35e25b79a363bc5eb"
+  },
+  {
+    "id": "cet46-high",
+    "name": "四六级高频词库（不含高中）",
+    "count": 153,
+    "sha256": "798ecf8e5ca007f076a165b3270df026f8cd2ae5f43294666381a7f4f300f0b1"
+  }
+]

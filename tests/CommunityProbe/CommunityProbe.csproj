@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <DefineConstants Condition="'$(ProbeTestMode)' == 'true'">$(DefineConstants);TESTMODE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="..\..\撤销开机自启动.cmd" Link="撤销开机自启动.cmd" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Include="../../src/Cet6WordMachine/*.cs" Exclude="../../src/Cet6WordMachine/Program.cs" />
+    <EmbeddedResource Include="../../data/recommended/*.bank.json" LogicalName="WordBanks.%(Filename)%(Extension)" />
+  </ItemGroup>
+</Project>

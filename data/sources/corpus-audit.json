@@ -1,0 +1,3868 @@
+[
+  {
+    "exam": "cet4",
+    "downloadedPapers": 76,
+    "papersWithReading": 70,
+    "acceptedPassages": 279,
+    "tokens": 134721,
+    "audit": [
+      {
+        "paper": "2015-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2015-06-1/",
+        "sha256": "0f4555c980a282d3dad8625fcb784a8fafa37e8c821e0b88655756328d6d6a94",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 219,
+            "sha256Normalized": "37a548c04ae30905338ad170f185f435cc1cc51a58ccb3a2197b70c57537ae31"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1073,
+            "sha256Normalized": "38e76f10fdb6f0a4153429268d1840cf514f701f60f3e04aca907b3100dfb05c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 345,
+            "sha256Normalized": "09dc44485397ddd5878215c29bb9353c678acca74d733cbb736e1a12974720f0"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 341,
+            "sha256Normalized": "17bf0804fdcb6619cdd0031d66729c599062942789e782aad24cc88f8ac76405"
+          }
+        ]
+      },
+      {
+        "paper": "2015-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2015-06-2/",
+        "sha256": "b3cdb8d3962bcea572e4b0058cf9b4c52162c19f28761bd2d77ec80e558cb811",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 222,
+            "sha256Normalized": "3d21d88dbdbcb265d93215e564cf0d0e5ed4c1caad53f11713d4b6c0c325dd86"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1010,
+            "sha256Normalized": "498ba1ffa3ba0401cad0e1ace670934c0574f84818abed587d44cd0649b8356a"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 340,
+            "sha256Normalized": "e7736e795ce630d229ecb85ac93982e4d0fc97c95f10f2cb2bd7c4396890799c"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 342,
+            "sha256Normalized": "eb47f9893e828f5024dbcd1ccfc8630d00c3e7a775cd3b3cacdca3a068bbb429"
+          }
+        ]
+      },
+      {
+        "paper": "2015-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2015-06-3/",
+        "sha256": "a78a4d8fe922f138e34bcb7f5cdc39b565dc3c332a37effd18265ba386c077d5",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 220,
+            "sha256Normalized": "1c2003b5142ec595aceb26e09074ba8489fada7a01027d0e20f4d13b95e60457"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1011,
+            "sha256Normalized": "4f13321d30c4dc8f3dab42983c5ad9f3cccb69c0eab659fa29775027a8a38bd8"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 350,
+            "sha256Normalized": "64494129b73d3018f225de34c16db090ec89b1dc88a14e596942ead310fd6bff"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 340,
+            "sha256Normalized": "d7ed6836ba0492c4f571c96d82d013e95747a25d4aa32c6dd81b26d9da7a48f9"
+          }
+        ]
+      },
+      {
+        "paper": "2015-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2015-12-1/",
+        "sha256": "3e657bca3cd73baa3fbe62abef6837fb65d1df447cdf7fd50ae003ec827de0b8",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 239,
+            "sha256Normalized": "ddd6724d4a4cd4f384fb2d4844ae492fa5c480cb25c896c6ff5abca52b31109f"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1014,
+            "sha256Normalized": "ac9c9d2a703b3da3d51e03d6f09fcc6baf6099174e5a8b0afb0a4849bac63f7a"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 343,
+            "sha256Normalized": "cec2b922d19d692aecd0e5ddcfcf78830672ffc0fc670f3d15d94ed20ec498f7"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 344,
+            "sha256Normalized": "8777ee62b902413c5145842153e9d4c993e326ba7037fbc771dba770aacf1c27"
+          }
+        ]
+      },
+      {
+        "paper": "2015-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2015-12-2/",
+        "sha256": "43dadea2c8c7c7de63057ffc78c61db75f93948e3165338f0ee697fa76fde2f8",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 214,
+            "sha256Normalized": "c23ef77ef4076fdcad2f978a4c10e1d733168eb915a448dcec104846cc2c5c52"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1005,
+            "sha256Normalized": "c209440cce141cd5d32ea9459e7a7958416d9a3711ec97ba3e96451789176f11"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 347,
+            "sha256Normalized": "5cedfc6034489356c64fcebb44a4df8227585315a78368288c7f8646740a3461"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "8beb81c2fee1ae93e024cef002b83967871e5730ff4b2f8608645dc6f48a145a"
+          }
+        ]
+      },
+      {
+        "paper": "2015-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2015-12-3/",
+        "sha256": "a3522fbe49fa411637a3b562f73940d9e7b64136e799c108739cfe7e7207dd8c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 213,
+            "sha256Normalized": "23a97b33afcd33754f434291d8ee6ddb5c2eced6056ea850f370fc83db9c87ab"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1023,
+            "sha256Normalized": "7590861373ab4611bdfb730beb0134c7e2eb3de80b73d86f8898be2b29b0365b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 343,
+            "sha256Normalized": "e222d014782260129c5fbef36611f03a91014bc478be76cf901a7dd620944127"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 350,
+            "sha256Normalized": "1e5de9fbf41c3cdefb612c7e6ba6325d2b9de332427cdc1cc8c22c62df38e6c0"
+          }
+        ]
+      },
+      {
+        "paper": "2016-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2016-06-1/",
+        "sha256": "6ce1416f92e434a62c423de85dcfb6c8536382251eb3afed67218bf24181c479",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 217,
+            "sha256Normalized": "22aa417f0a05f4378acc13a8f50fa6257a9dd9d5947429bb1ad0141d8e2b2e6c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1007,
+            "sha256Normalized": "c4cbf2435971b91fd48cfd44c7db7331eab809718c9d1a9dc0bdfe5b675f8850"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 350,
+            "sha256Normalized": "aa49de5f98e09f65cacc95afffe0f4edc7747ddda781da9335b7c7a1c55213cd"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "5848d80f04a0b37abb3721a81817e439cc7c92545073adb459df3e65bfc19c39"
+          }
+        ]
+      },
+      {
+        "paper": "2016-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2016-06-2/",
+        "sha256": "75f165b50d822843ab14d6569b77be259919cebf3660bbb0a697888a29875de1",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 209,
+            "sha256Normalized": "724011d710232a5c8d63308f821592291da715401a298cf36b6dbaf382e9b614"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 959,
+            "sha256Normalized": "39f8a5a71a7fe0c0e7e6e94f4bc6e472b9aa9a16017fa39f79248234899baa02"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 345,
+            "sha256Normalized": "383334d1160a510a788901960e798ad24762dec0d236b47dce96a24972f470ca"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 331,
+            "sha256Normalized": "37c6b093dc5dbeb3fff49c2e0d5798f9852b4c18ca90d7d300d1b9fbdcd86280"
+          }
+        ]
+      },
+      {
+        "paper": "2016-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2016-06-3/",
+        "sha256": "1f231908ccd3184a993abbb0443998a5bc07a5a9ddaeeb7fd51d25bbdf37b983",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 233,
+            "sha256Normalized": "0a89980998f4f9153af6a0727e24ad2d5e405b12d804fec16e8e3127dff4fd96"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 979,
+            "sha256Normalized": "ad8012935071a5f82f7a143c262e084d8f44693bb565ba7c55cc9346d75984ea"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 332,
+            "sha256Normalized": "4e82f4c41261670ded8c4080cf753f8b0f166376a43f9985b75d18231072aeac"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "69c18c4bb6959f790575eb503d50d70f377c1f9731b0c428d600131908c45ae8"
+          }
+        ]
+      },
+      {
+        "paper": "2016-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2016-12-1/",
+        "sha256": "1b696a0bb2cf2a3c52a8ad1acfbe9571154f1c8f6891154e36286eaddc89aac3",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 233,
+            "sha256Normalized": "a380c9519a7319dd4d15646cef87fd73297fc28334a1642ab44a878d4020d6b1"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1028,
+            "sha256Normalized": "5559ffb213ed980f19aef3911395540d37cffb0b76d1fc3003c911cc46ae2b7c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 351,
+            "sha256Normalized": "8214f2577ab438daed5b2d22b44db027427731fd91c385fde3f804b8d4083c42"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "9816ecd7a1b09e88a486602696f74f31358d204db90b727af08e179f6537f6aa"
+          }
+        ]
+      },
+      {
+        "paper": "2016-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2016-12-2/",
+        "sha256": "52c3f100164f5520ed7d525572b9cccf852f88d8d24a02ee807dc27ecb529845",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 184,
+            "sha256Normalized": "703d7877f3d1ae47afa643e3667f33974ac1401e82bbeaeec869546dbb2078d8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1024,
+            "sha256Normalized": "d6252a1ec9da42e69ecf6ceff7dab2ddf5e8ff2e61d7cc0d833e1917d86a70ae"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 349,
+            "sha256Normalized": "8988d3cbf821189c6e5be5c89427a889ca21ebac20a540dd63640699f97156e7"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 324,
+            "sha256Normalized": "fed8b0805e5b5f9ec8b97511d3b0d31122a36f24887f4b5037db916a7014e5aa"
+          }
+        ]
+      },
+      {
+        "paper": "2016-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2016-12-3/",
+        "sha256": "b89b52cdd1385a8830181073e0515e2933c4ef2e63823ce79d079bfe433860d4",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 215,
+            "sha256Normalized": "d48c4388225065fb625d8cb530dc06988688ec5fdb36d1da8bb30a4483cd34a8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 958,
+            "sha256Normalized": "15915bdc0d162e48c16e4c61987fd544abf5990c0723bb27b6e9915bc41de139"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 344,
+            "sha256Normalized": "152e00fb66dc992cef9cd5ef77a6d45be661dfb28b00812620f0b5e60596dd6a"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 339,
+            "sha256Normalized": "6a1b60475234e9daaf605aeb9b2ee57deb4c570c06c6d8fe9f9dc1bfdb181419"
+          }
+        ]
+      },
+      {
+        "paper": "2017-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2017-06-1/",
+        "sha256": "fcf51b0f3397f3f89e1182e342bf56e6704cb44a4c6056d2117b72a619b04792",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 205,
+            "sha256Normalized": "04d3e09e4dabd7cc53d622fc9f7378a76d66ce798fadd11299584a3432ba14b0"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1012,
+            "sha256Normalized": "03fe927dec98b9f83c8045f45b21e3056bc81aa5c6a8d07375a9c3a867846c46"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 342,
+            "sha256Normalized": "e1f4ed1e6804cdb22881fbb2f612ea9018a6cf08e851431e12c011b6f0059ab8"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 335,
+            "sha256Normalized": "cc3b60af5e3f63f9f338715257ccd30f693af36813909393cd870e431c23ebe1"
+          }
+        ]
+      },
+      {
+        "paper": "2017-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2017-06-2/",
+        "sha256": "1a25148db27dcbd89c400b08aa801b83ce3d6436a2591453f7a1ea9d9e01cf13",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 222,
+            "sha256Normalized": "17cb39216f103a03127aad1f32486c858ac7a841bd640ef871b7b812ca0cac5d"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 983,
+            "sha256Normalized": "7d7f920ade5d3fb3d23dcc8743772e4b22200e224a5db4cf8ec791af5adc6fb4"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 310,
+            "sha256Normalized": "c3303e71b136d24be249270f5659d3e4a7bed18f16cf3bcbcae10b3bf0c6d266"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 351,
+            "sha256Normalized": "0c1c65b4173a4733fa6ca23f54b59ebcf2fc36698bcdc60d36e52b8f37e344d9"
+          }
+        ]
+      },
+      {
+        "paper": "2017-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2017-06-3/",
+        "sha256": "9bfc8a44a844e00091752c0dc590653ebb47627091b3cb7084ccfa9f7623dbb0",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 234,
+            "sha256Normalized": "bdd5ec2e6d77ee5cf1cf524af06c95c61ec3d1740a4f0915e7dd618bf2d015ad"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1026,
+            "sha256Normalized": "3cfd87ea65b47a4cf8c47c5814a13974af08ec43557d49a0f70089cb7268117b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 343,
+            "sha256Normalized": "bf4ceb4e0e763f36ea25f91aedf6b8a66595fc83a6b62a5ba783a64fb570bf5c"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 346,
+            "sha256Normalized": "4628adf4be07d14d6a35d68eab78c62b9f689f31735a73b34da432a46899d8a8"
+          }
+        ]
+      },
+      {
+        "paper": "2017-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2017-12-1/",
+        "sha256": "df4579c11eaebdf3ca9158f86d2dff6d5345a9c2c2125aa8f8012f468a31cb21",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 223,
+            "sha256Normalized": "fcfe999cd73d68f7b89833809a116ca067abed51adca605070aea168081070c6"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1009,
+            "sha256Normalized": "3e3d241a03583834cde97857000a72d5c85984e2a2f64d406011b6c3df6b78e0"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 348,
+            "sha256Normalized": "8a3ae06fd292040e04b70f4d5699687fa63245d3c613156c8c6f49430022e333"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 346,
+            "sha256Normalized": "d0a6e1199556016b645b2e792cf028deda6de0f6b537c5ad7ddebb5505da6ab9"
+          }
+        ]
+      },
+      {
+        "paper": "2017-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2017-12-2/",
+        "sha256": "f1e7becd7fd568cd0686e87af56190abfc4c4e21893e2f780f263ce4b147f0fd",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 240,
+            "sha256Normalized": "193b12ae2d4c8d01145a69f7dfcfc770d0e97f2a6bcc7060873a4d102bd13520"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1010,
+            "sha256Normalized": "d2acaf9d1eb3ec53c4cafd430314778899cd62e3047a5c3b281dd2a8bc0c6148"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 342,
+            "sha256Normalized": "b981143d8a3b3badcc2487ddc116ef5580b2ea91ea3aa0eb37133e1a7d196fc4"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 334,
+            "sha256Normalized": "deac098dc1ab156416d7422fe09f2102b0eb47ab43117c7044b04bc1b06171fd"
+          }
+        ]
+      },
+      {
+        "paper": "2017-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2017-12-3/",
+        "sha256": "e97538a8ec9d22f49a6d558a170ecbea0b1d10c03955f46770bb10e504a9e35e",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 206,
+            "sha256Normalized": "5fc2d9d80ba33b434101df0e9e2241b2a9609834cd9858ec357f008b2fd72622"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1007,
+            "sha256Normalized": "497b49f90616b015ef47a371b94c617d7a261e52122cfc785bb15f288367e618"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 335,
+            "sha256Normalized": "925521d4fba2a92b26d0cffecae862dc156344eec626570a83f3606838528c5e"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 349,
+            "sha256Normalized": "119362271982457bf53d7860e6acc2e0b052ef248f6241fc027e2f04dde95611"
+          }
+        ]
+      },
+      {
+        "paper": "2018-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2018-06-1/",
+        "sha256": "347fd924e88d553cd06d7b2662a6dfd7f988baea6bd999fe42327f134a016a26",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 232,
+            "sha256Normalized": "173a4a832a1e2f0af6cb035f8a93ca9fb61256f92f9532a61bc2945acaf5db50"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1040,
+            "sha256Normalized": "06e2b6daec7906e5e762a83a3fe07a311eb4f83aa0af2ed90ce7f33d329835d4"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 344,
+            "sha256Normalized": "84c5cbbab4a3bce02b185d990dce24f7f1d453db5332c6fe7e9f57a07ecc0633"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 335,
+            "sha256Normalized": "1128678108aa110e43ca75160856696e6e4120a4b5e9df3003eacc940e1f5219"
+          }
+        ]
+      },
+      {
+        "paper": "2018-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2018-06-2/",
+        "sha256": "ef019646de0f2f91d7b47801325e65d83b79964c369c4cf2f373d29f09ba8160",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 235,
+            "sha256Normalized": "b0dac23f445c67bb8757cef511f4b605bf55274c665bcda2cc3f0c2160105af0"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 953,
+            "sha256Normalized": "79d1e111c0c831483f45cc5ab780a5e69914fd29111fb4d2fc172bf13b70cf4c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 345,
+            "sha256Normalized": "f3a699e7544f8056ed6fccb6c9177ca584c769ff45ef932d97065b7399bf22a7"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 327,
+            "sha256Normalized": "ca691dd5679832d79a5ba97947949562a2106ce29ce8c79da525bd004281a2c8"
+          }
+        ]
+      },
+      {
+        "paper": "2018-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2018-06-3/",
+        "sha256": "40fb7c0c8e16fd21b65dcfc105eaa3dc357e8fc0200500672f99eb451740dfb4",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 235,
+            "sha256Normalized": "daa6c195a187d41594667ab401ce1db97b50d210d59bf0289229df0a8430f99c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1047,
+            "sha256Normalized": "302b9bfc9ee495f3adba3e6cb0996fc4f2c620c0d02e44296ae822263b4ac075"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 347,
+            "sha256Normalized": "8099085795716a023b10b93f5355c5fc3dd0a0bce23b243b7a37f8e36843f703"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 334,
+            "sha256Normalized": "6798320982c1c1f05b495d5293b179427f497a195dda6e0ee7cfcfa800c019f9"
+          }
+        ]
+      },
+      {
+        "paper": "2018-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2018-12-1/",
+        "sha256": "0fc50dca34bf7e745edc7290b153661ee3d709088c03de92ba5d1bd2512cfb3a",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 212,
+            "sha256Normalized": "bfa4bef51371aeaf7bb39d73fe4d9d9c5e7d1aa432a402f9c0438cf9145c3557"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 970,
+            "sha256Normalized": "60204cbc0be6bb55bd21ef4809a079fd55c9ac514f9dedd7b85ccf6cb68e59f9"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 320,
+            "sha256Normalized": "b59a597e24a9c14bdc95c7ff9a23657d150d406eaa497492a65d464bdcab9cc4"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 344,
+            "sha256Normalized": "55d3b5b96462c726e2ee6d9757a4b7ec3a18a138fc6bb93420982d5e5584173b"
+          }
+        ]
+      },
+      {
+        "paper": "2018-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2018-12-2/",
+        "sha256": "bcd041c66e25f298ed5c5032490f28d790181d10b77123708465d6b01eeb67f0",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 235,
+            "sha256Normalized": "79822b0a88bac8ede2c5433af493b528f7f6e2fb86456d5c56068924a84bd118"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 991,
+            "sha256Normalized": "7e3808ae191e3ba81d056652b24c8e74255617f79410ce88ba49c3038267440d"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 348,
+            "sha256Normalized": "ba94152263f9dc599ba5294ff4c2adb10d4bf71e0c21129a63422df95d8d3353"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "8974350282e2b4b8c600826daf9cc8355d4790f15a9a094bce6246956cafa49c"
+          }
+        ]
+      },
+      {
+        "paper": "2018-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2018-12-3/",
+        "sha256": "9a0c8115ed5e808f1819f78e41ed6bdfbed0165cff96835303cc701e94ae2b20",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 232,
+            "sha256Normalized": "489278d6c6ec94f6e2c459f78d7e07e179e785eec2e39df97e43e20153694cc8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1033,
+            "sha256Normalized": "8c49bf5752231a33f1cd2f1f7c969d7605798785305e7c1011fbd466a0520e0f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 341,
+            "sha256Normalized": "971d08ff2adc81e2ba2d0fa1a28cb181d5dc32a9e6d63042424eac9f6e657252"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 350,
+            "sha256Normalized": "e860178acaae9291eaa09cd883afbe4243a5bb8376d3d8cf657f13b5d6679ab1"
+          }
+        ]
+      },
+      {
+        "paper": "2019-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2019-06-1/",
+        "sha256": "5cdcf3ec5d24426154ac28dee1e117b99b7197601fd6838e90f0be70242a36a1",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 219,
+            "sha256Normalized": "b64a37967a6a90c5bc8d0f827b00990a38c967591e08e9c6c0b34121cb1a34f7"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1037,
+            "sha256Normalized": "f5a4c5f36910e12da57235010f3db3b6115d4bec256e3d8f25b16e718ddc2867"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 338,
+            "sha256Normalized": "acae4d68721284499c3d9b3ed0ab1f37f97194fef2227a533df8788bb7d6c031"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 340,
+            "sha256Normalized": "7717b8f3169e5186bedf8ab3928a4c8eef88c6c47ce42191a61c5ca98c4d8c0b"
+          }
+        ]
+      },
+      {
+        "paper": "2019-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2019-06-2/",
+        "sha256": "3ab52d0f2e0360dcefd812e2bc5d1c8755aa044054de800f0a86f77cf75fe562",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 234,
+            "sha256Normalized": "4143fc35604571a9c709269eedeb50b235b155acdaef43a54effdb44e7589ada"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 947,
+            "sha256Normalized": "21c6d41fbcba955623dd90fd1aa7fdee0932f82954a0118c74b452112d9c0b2e"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 340,
+            "sha256Normalized": "a08fe0e82a91496ea158babea2bf256f341245111559bdfc4faa07d17cb10e16"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 335,
+            "sha256Normalized": "34007b8f7227d7d4082233b51806af1566bfa9a724490eff1ed23aa70e545681"
+          }
+        ]
+      },
+      {
+        "paper": "2019-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2019-06-3/",
+        "sha256": "31a6bff3e2202a9c51ffcaab0c4207e6c57b6edcac21221ea82f39b4d1b9e214",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 216,
+            "sha256Normalized": "34283fdd5ac820234bcc8ef693a359e6b313395d604e3aabce2ca29c2e135951"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1034,
+            "sha256Normalized": "4a09786beca11db5a76d6231179b9369956ee3d379fd484a351b348c915b1ed9"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 340,
+            "sha256Normalized": "1c2677421f37c83a5b4c03f09b435ab5537ea2711af5709a15de2617c0c20d91"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 333,
+            "sha256Normalized": "e4aca563deef651a4a02390f3c61d9cc5d5e52410f3ff4d9bcc5add2087af948"
+          }
+        ]
+      },
+      {
+        "paper": "2019-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2019-12-1/",
+        "sha256": "5b9a7da84984bef05732075823ef8309b65725c4c8fd687541dac1b90f74b630",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 234,
+            "sha256Normalized": "65b360175ddd3854771a9eaa08fa6b5d0b8e4c3fb1a83bd1274f6110133851b5"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1023,
+            "sha256Normalized": "e10460ab5b0e474ac227a4e8282ed1486acf3e93b374b09cb0cf74f02c8adfe0"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 332,
+            "sha256Normalized": "27b5eb10d90cf902d44e1ef824ed9ddd6fc2f236fde68da8552fac0e14220c4b"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 341,
+            "sha256Normalized": "559b291aefea5e06c93a6fc095069d91995a70f5b1fe8e984136e11b2b68ff78"
+          }
+        ]
+      },
+      {
+        "paper": "2019-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2019-12-2/",
+        "sha256": "a92d805b7672595b4dd59cc2043f4b0a7baf8153370a2bd87c6dee606b075a90",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 238,
+            "sha256Normalized": "1a9cfdcde9d9865f587fd850755e5d2b80ce349eda48c5323a620a4db966125d"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1040,
+            "sha256Normalized": "730358748b4441445fb2d88cad94576bc53e6d9a838e2c56641ab6e0ab9f1624"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 328,
+            "sha256Normalized": "9a7eac4d72aba433ae062f2dd57301a858ed1939060e77c54d8874ea506e21f5"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 322,
+            "sha256Normalized": "5e5cb2f8c42516a889b2cef0dee682f79f84336e017ffd1c01241e5c0f72f134"
+          }
+        ]
+      },
+      {
+        "paper": "2019-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2019-12-3/",
+        "sha256": "8a0626957c231d15afdecc51251e8243f3d938bc56458e2fd9a88820307c377f",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 236,
+            "sha256Normalized": "a72a4cc3fe5b0418bafd0298060b2aa46b46e9966caf8c322523a6262525a98e"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1005,
+            "sha256Normalized": "f95eb329e4995b6f7da144912e35de9e4853ebbaf19bff320bf151299ffd28de"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 341,
+            "sha256Normalized": "c49ce2672739df9dace1403cbd95d7e680e973c5ea5a78c335d19afe538a6602"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 323,
+            "sha256Normalized": "f08cd4c7e9574091ac13eb756cc9728a78092924c5511edb36dfea725b1d3056"
+          }
+        ]
+      },
+      {
+        "paper": "2020-07-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-07-1/",
+        "sha256": "7b4cfceae90fd79dc75eae87f697f9500383b176a8939bf05a2e47bb153a26e1",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 263,
+            "sha256Normalized": "8a96a45153d1fc4eae9bd273c2c62105bd66e3f988e994f3a1790082042f5ae2"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1021,
+            "sha256Normalized": "ef0f0107743bb47aaf696900bdcafc64569896b7eebbbacb36aa8829c0bce42f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 343,
+            "sha256Normalized": "e222d014782260129c5fbef36611f03a91014bc478be76cf901a7dd620944127",
+            "excluded": "duplicate passage"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 363,
+            "sha256Normalized": "b3ffc58246025582694af4f715e74eef305e2cd2bd4d3ca5c096a1fbdcf2d740"
+          }
+        ]
+      },
+      {
+        "paper": "2020-09-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-09-1/",
+        "sha256": "f6858c460c62eb1ad57e9f47d0c4059215c2e84b0501bc4cec8ef1055c3e9d64",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 222,
+            "sha256Normalized": "6747b60ee4e4a3824a11eaa0ffe967028b199158ab24381f203be48f4e294f8b"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1017,
+            "sha256Normalized": "61eada0c66317b49cad4ae3374fd85ff88968b319d1830176372a28128ff2ffc"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 352,
+            "sha256Normalized": "e05f3b54677ee474b687cf5cffc9e159c90304cbf8b16d002acc01dc0215f7e7"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 337,
+            "sha256Normalized": "947032d7889ae00a6095260e51f66dbdfd235d09142ef26550d8304ec75df275"
+          }
+        ]
+      },
+      {
+        "paper": "2020-09-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-09-2/",
+        "sha256": "ba899e8c217d9d28a445ae5419575075ad972d6bb9ea52a85239e741391ee0c5",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 213,
+            "sha256Normalized": "f0d3d8fe74b6734636bcfa9b6c9512d2e13103a8198f831e9c06c59312f43200"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1045,
+            "sha256Normalized": "3797d296a87a98f45947691e64408e900e34a4d79e22524a4d2b9ff3d43738b3"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 348,
+            "sha256Normalized": "1cc3f29c5c756b62b207408f562cb96c3bafbcf094b0ec7f71aaddc77a43b97d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 344,
+            "sha256Normalized": "a5a279fc92b0fff9f4ec6f418e94e2ef417cd776789c5ab43b07fe9c2c5debb9"
+          }
+        ]
+      },
+      {
+        "paper": "2020-09-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-09-3/",
+        "sha256": "8b3cc1e12e2c27628a2862da04ea38571f527916ef4defed4d2f30e94a04e24c",
+        "modules": []
+      },
+      {
+        "paper": "2020-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-12-1/",
+        "sha256": "f41bede7b77b7b4fc79936c786af9f68717e871069ca6b663e24aeb93e44666f",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 234,
+            "sha256Normalized": "f9fa78c026ee3612eceecd87fa0bf87a8e449d71670b6e38c39bfd131c220cab"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1010,
+            "sha256Normalized": "1a2fb1196009588f744883d1d04abd9f013cad876fb5412366ab4a10f2df5c3b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 338,
+            "sha256Normalized": "b1ee97d63ca9f390021f87251e76b05816e524f7f0620ce7dac60069b488897d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 344,
+            "sha256Normalized": "065b8b45590bbe75b49977868d0aa3b4645ff4945edad48a0f44e995dc2761e7"
+          }
+        ]
+      },
+      {
+        "paper": "2020-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-12-2/",
+        "sha256": "cf3e1ebe69b212fb5d37acd3d90ab79a4e1a4062b5e6656fe7f137df66889cb2",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 241,
+            "sha256Normalized": "369d8a9e17ddb304ac1fda179de2a8b1a8e7b3b5eb4b69c040e6a04b0221c468"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1036,
+            "sha256Normalized": "6e5df1f1bdd56699da42bd59ce734ee712399a447a7be12d5f3fbbc30744e6cf"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 347,
+            "sha256Normalized": "c78b2eb0e6d836c9f282276e34ddc3bf1c9d08f8a8465e76709588940d886438"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 328,
+            "sha256Normalized": "968733a70dee213283235cd25c6009a34f44c4acd2afaa44e98e8d088ee5a678"
+          }
+        ]
+      },
+      {
+        "paper": "2020-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2020-12-3/",
+        "sha256": "f418b0af3a24ba21b2c5416b38793ae0bf44039251d308172b9a178d538661fe",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 241,
+            "sha256Normalized": "f0517f84b990dd44b99c165132bb639ccddd3a7f913c921bc325a98e29830acb"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1013,
+            "sha256Normalized": "478876915afb3b6273d4c303fb2ab88c3a5ca1f1607acf36bba8e49c6cac68a2"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 338,
+            "sha256Normalized": "6eb76818dfbcd64a5a1acb966d06d67e49cb672e6b250628fb3376681ea5773e"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 343,
+            "sha256Normalized": "66c1469a08ceffcd385b28342abdd1306a3a52016c540c9efe5bde027f08fa62"
+          }
+        ]
+      },
+      {
+        "paper": "2021-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2021-06-1/",
+        "sha256": "84981423e13e2b8f4605e572e1fe35379a0e325de9cc8b1ba29488e4c6ebeddd",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 199,
+            "sha256Normalized": "1f1a9c3cf29c972126081d660a2446cd2fe0618525fed1eb540c7237a3d92796"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1015,
+            "sha256Normalized": "a3e1f955221bc4be10b78516db2d7fc7221ca20524e15a79575681a2e9b6a174"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 350,
+            "sha256Normalized": "81aa6a46300e4b5daa1cd82e853eb3c70e27849f25eb27177bb4ba4a44bcdd67"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 342,
+            "sha256Normalized": "7248c9aecca3ef3bcccabb8c566b8e54982aeb5f7674d98565d3159d77fc9061"
+          }
+        ]
+      },
+      {
+        "paper": "2021-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2021-06-2/",
+        "sha256": "1b751613a7a807ed63300edaff54170aeccdb9986688c3a791cc246426c0dbe3",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 237,
+            "sha256Normalized": "4e49663436711ac0a6d9340fa2e717f6c2251005f149c235efe7858084154182"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1032,
+            "sha256Normalized": "76c76ed8080be36a44d6dcb25dd4b5d4989da6c9cba610671dc2bbddacb0405a"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 338,
+            "sha256Normalized": "05d54669ccd2d861c68bcdc38ddd72ff722eef7b86e31541ef3c74b21f0f5c63"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "5a34a63f648b44939d8195711a6fdecd018a0548189ddb2b6cef7e3e05f95e7e"
+          }
+        ]
+      },
+      {
+        "paper": "2021-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2021-06-3/",
+        "sha256": "1307458e634f1a5c398ea850efced0d16ac5367ffa2f1a76c2fa57da7c3cf3aa",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 217,
+            "sha256Normalized": "4756ffa6b7f9007bd846b3c21c8a71c3825e07660f10fdc5ac5ff4e6210e031b"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1041,
+            "sha256Normalized": "a78cbe3ee06203e95568aedb6443af9764eb799a8fc8fed0dfd0f7535f8db261"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 349,
+            "sha256Normalized": "b4023b27c1cc645a39ec1ce74fcaf0006078bd732acb6a8ce91fea144450caca"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "cffa83de2d7c719639df407ef02386882b8fe211c02e9f2cad1b26dbc6d0a156"
+          }
+        ]
+      },
+      {
+        "paper": "2021-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2021-12-1/",
+        "sha256": "034002987aa5f85ddd98ef5720a079b557dc0155807442de27da7e6e833cff82",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 229,
+            "sha256Normalized": "ac2069cd4d3504c3cfbd46ff507a347bcfc11eda7b6b19a46e163a10806cd5b1"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1038,
+            "sha256Normalized": "92e91fd03ffec6cd769f899b2548f96a9cfe15690da4ec0f33b524d0c5c10445"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 341,
+            "sha256Normalized": "ccbe76fa076c62b65eb1eee3b7d2de979d3ce2c94f3319faf649ff1a7d3c1d35"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 334,
+            "sha256Normalized": "bcea96d77672792b530c3dec47a74ee13539d58f03bf739c672654d85bfe77ac"
+          }
+        ]
+      },
+      {
+        "paper": "2021-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2021-12-2/",
+        "sha256": "ec67a6ae94573b78e1cf2d8935d316a5500994198c4c4d99a73272774a66c98d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 231,
+            "sha256Normalized": "355357356d428223811282248a49ec4e4f3618f457179872069cd106aeaa6500"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1008,
+            "sha256Normalized": "e11342d092651ffde21e09ec95b64e307d530066f2e44e58dc80d602ecab84ec"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 344,
+            "sha256Normalized": "ab58f85139872afdbd05dd2269e3121ae26a1b5079b2525bcbe976ded68855e9"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "b62922f24a0885b37fc3471bb39ebc014150b20820f20c72ecec02372c2444bd"
+          }
+        ]
+      },
+      {
+        "paper": "2021-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2021-12-3/",
+        "sha256": "cc4e3275ff7fd76a69f99cc2ad513ba138783609021e9e6eef263dbdbe25736c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 237,
+            "sha256Normalized": "72b81f9aa703b8ee9175471b5a60b0f036993f8a4ce2bc0422d9ecb8e9f0a4f0"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 981,
+            "sha256Normalized": "757c62b567bf43d630c86ed5aee98c5891896704a23b7467aa2172976a7d244f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 345,
+            "sha256Normalized": "21e8e5d494d8589e8525c5ca36a8dbd5effe04ee72de82ab8782b6a1415060c4"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 351,
+            "sha256Normalized": "f911271dbfb37c148c3173d4da45cf39bac5034ca1ab209ff62f0a138ba78c5b"
+          }
+        ]
+      },
+      {
+        "paper": "2022-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-06-1/",
+        "sha256": "0f3302286113acb88095170af3d408a0c35894b461a30e649bc5c14c318f2006",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 239,
+            "sha256Normalized": "ed46deafe8a08552caf78d256171a10de2b8e6b5afe386581b1b9ae292ab2845"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1055,
+            "sha256Normalized": "6119edba8537bf6b875abb4a45ffddb45ea253c62c184c2f69187c6dccf2757e"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 346,
+            "sha256Normalized": "fccf6f8141a8154b63da287d5f1327d276201b0dd47893cfe1b1999f4900fe11"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 350,
+            "sha256Normalized": "0c293c69529ccde7bcbf3a84c506f76aae31eb65ceca302daedbc0bf3ec8d45c"
+          }
+        ]
+      },
+      {
+        "paper": "2022-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-06-2/",
+        "sha256": "bdcc873305406f761776dd29405e312fc1677c82b3c9f5a36ae78bde87b4d41f",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 240,
+            "sha256Normalized": "24207c6fab1ed645e5d672ae53cf961dad0274bb08e23c5b2447813c1a5f5271"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1037,
+            "sha256Normalized": "6d5338984f67f778ed2cc4abed4d34eed631035539f17d2f605bb05b499a5027"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 347,
+            "sha256Normalized": "45b78fe64a2037740eb8d8e04b551b9b8a8adad521926e05e18654c3a6d2de00"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 346,
+            "sha256Normalized": "80e46fb7e76d71289901bc9add75151af25e7dea89bfc7a7b223f8b47e7e272f"
+          }
+        ]
+      },
+      {
+        "paper": "2022-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-06-3/",
+        "sha256": "45fffebb761b62f53732388ceed375bbc9d75f4db8e7dfbcabb0fcaee88847aa",
+        "modules": []
+      },
+      {
+        "paper": "2022-09-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-09-1/",
+        "sha256": "95af8e5e6ff9f2b2d712360bbcfa9f57103792538301beb01ca0ef27f418ffca",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 235,
+            "sha256Normalized": "83765a87c3fc911d05b2e1b6444bf90faac91ad09b93153911f0ca551bdabd43"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1019,
+            "sha256Normalized": "bb571f57ddff00d6409feb6c2ef24c513fcd8c54028b16abf69a6f1a0150bb9e"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 345,
+            "sha256Normalized": "381a6b6f2620b28561ab4d7fe457765633349d568dd9aafe7ed3802672514f49"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "565f082f4f6ffea6005b8287a0049fc07f034904c7653fe1eb4d2c03315dc717"
+          }
+        ]
+      },
+      {
+        "paper": "2022-09-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-09-2/",
+        "sha256": "3fc778fcdc3af17810b43389d778ad715f380e50b154df178cdc7535eaf0f090",
+        "modules": []
+      },
+      {
+        "paper": "2022-09-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-09-3/",
+        "sha256": "5e8637bd5924ff5bba044cd5140ff3e370cb12ad3c230956a761bdccd2969cda",
+        "modules": []
+      },
+      {
+        "paper": "2022-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-12-1/",
+        "sha256": "522e712ea2352300c7296cca76c505df7bb8e075738be817f6316b929f626327",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 202,
+            "sha256Normalized": "b4beb8d02b604bbda7979034135ed53e04449352986758795778f71896b512ed"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1020,
+            "sha256Normalized": "6715eb70ca718df57ac7b6eb4989b6b15d7615cd07281a607b865e951ccf0267"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 344,
+            "sha256Normalized": "97120be35367708688938897d88019e9184437524b066d755c27da0c7f33f6a5"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 341,
+            "sha256Normalized": "1c6be6e715a77bbaef1a50b15dfdcc6e053c03f1d8e04ac0eb3012123946910f"
+          }
+        ]
+      },
+      {
+        "paper": "2022-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-12-2/",
+        "sha256": "8936dde946fd64cb639624f2cfe31eb8a2642319a132dec4c2ae9b6424fc0966",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 233,
+            "sha256Normalized": "911d9bbb7d888d19a6a58722fd0e3f6438b7422127f7afa6c849d68cc4912475"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 999,
+            "sha256Normalized": "ed749ba7b935cefa96730bbaf00012e55e69b4f0976897df99aad69bde872793"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 333,
+            "sha256Normalized": "39401e32ed1040f5bf83ea4603ce42d6ff042b51c441aa3f184127533b0b9d9f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 326,
+            "sha256Normalized": "24fa3a5479e6c00241803fdb94a9d3c4f57d3e0061a6321b2b9254a38eae676b"
+          }
+        ]
+      },
+      {
+        "paper": "2022-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2022-12-3/",
+        "sha256": "99feec5afb52b46eec47c923f3840d9e63aa168a1029489882d1c8ed0b45763d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 236,
+            "sha256Normalized": "604f34dffe2bb9e048a3d8348609756095b469f6f825c179291ed802822f4ab0"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1030,
+            "sha256Normalized": "ddb312b0291c87d6964354ea7a7132312e9db4fd62e30215bcb73a600186727c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 338,
+            "sha256Normalized": "41e376f0aa2d92018e18ca4b689a6366a9078e490d653f7d5210ac23aba674bc"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 352,
+            "sha256Normalized": "20483ede1d886200120007c3e29525ecafc847688e423f974922ebd6baf151cd"
+          }
+        ]
+      },
+      {
+        "paper": "2023-03-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-03-1/",
+        "sha256": "661772add806f3da52820ff766de4d605d193844e68ce30ecaa75fc88f5e3eb5",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 230,
+            "sha256Normalized": "c7d6dd9256361764e85469465bf63000a4bbba4016bea8d83053616155cef3b3"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1030,
+            "sha256Normalized": "9e53e115b20461e16981e1564ad578d05c18d97ce43ff44524ff240ec9baa0f3"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 351,
+            "sha256Normalized": "7b78eb911e22a58a6b650143ee7febd9b988e3652b7a3dece74a2af4090d6725"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "4a52567ed2ae8b85812f4d7bc7a75b32b4a5e74b973fa309e63f4af936f947b8"
+          }
+        ]
+      },
+      {
+        "paper": "2023-03-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-03-2/",
+        "sha256": "f52d5347bbdeec8a9d5a056fc7e9d87b51a127f5c48f64bbfe816d9a41314599",
+        "modules": []
+      },
+      {
+        "paper": "2023-03-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-03-3/",
+        "sha256": "9421d3f27e5933a94f27deb2fb6e96e922eeca8a5426cd3fb3e1ff89a86c89c9",
+        "modules": []
+      },
+      {
+        "paper": "2023-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-06-1/",
+        "sha256": "b9a4fd8d67c5d3f83e601d54c4f4f8a09cccf47bbf1557a51c8f0038d093c627",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 233,
+            "sha256Normalized": "df98a594ce7515ebb146247ab7dbcf6c9a6ee8c37a38e8e5b7f466adf1523c45"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1003,
+            "sha256Normalized": "9048bc6023dab5c1417835ca2b4cfcc751d14e42f386f1790f6b159fc5c807d0"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 342,
+            "sha256Normalized": "2082090705cdc1d606f4c6bcc7b47b087fb1e9e0afb97e9f69df10a9aeb61440"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "20b03f8342dff51b199fa92eecb72c9e106bc66b7cfc4ad057e0d0f78e95cb60"
+          }
+        ]
+      },
+      {
+        "paper": "2023-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-06-2/",
+        "sha256": "2ff1739c94589b5d869edf79f01e2d85ef5d5741be404d12cb0ea03bc463a179",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 200,
+            "sha256Normalized": "00dff1a1cbec53dbf78977cd3f22403cecf0fddb0e0ed69914c8dc2b40347e5e"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1016,
+            "sha256Normalized": "f98767077d9e6acb9cb859c76e3b5b9e915dbba9ddc136b87f43beda38a6819e"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 340,
+            "sha256Normalized": "a0915c5628e68010f8c93fb3151fe298d6bc0bfe3ba10c65c729037c0a5ce601"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "6b911c99babf5bdf718ece111d918a92b9177d40225bb7cf5f67302300a3b258"
+          }
+        ]
+      },
+      {
+        "paper": "2023-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-06-3/",
+        "sha256": "105b7f36a032359b4e45bd31331b89c7b37b6c480d611282604174ee7055b494",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 226,
+            "sha256Normalized": "8abd5af52017a639c8154eb473afa6b93a1e2f4586106cae2cd2a8d03df13f98"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 996,
+            "sha256Normalized": "4e8368fbed14fc02e16ed279fdfe7802b2c63e600618bbddb5597356ec5e714f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 342,
+            "sha256Normalized": "737f65ce782dbcf66ab6e2bc451c220f1932f6932ffe0114aca85778c62918e7"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "01fb7aaacca3cb67b9712f9ba8a113f6e2d06a9a5d4b7074dcac9694d183220a"
+          }
+        ]
+      },
+      {
+        "paper": "2023-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-12-1/",
+        "sha256": "50346bc39bb46f6b368214069cf5cd92060b2822f50202fcf1ff5f009c900f0e",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 228,
+            "sha256Normalized": "b5ce710ed00f8d0fad3f69ceda32b495ea9f064b2035f3bb8f405ee0b499c7e9"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1035,
+            "sha256Normalized": "b03dcbf1f663619997a03679af6c92e615905a50f71c5b06c48877da2d475e39"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 349,
+            "sha256Normalized": "9b161728874116e89487831fc4caf03cf7fdb4702c2fa47dba1c658a3ff7572f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "4bdb5b9f1c6c94c6af031a2c290aba81f8f28a1689dea948dc54682f8e7b2727"
+          }
+        ]
+      },
+      {
+        "paper": "2023-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-12-2/",
+        "sha256": "99544e4ebb12c8cccc519116ee06775a5622ecd6a03fb7de34e1d7d208598e63",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 237,
+            "sha256Normalized": "378473fde08b6f1b4493ee2e65ebeda618d61343b845f66dcf2ad38170657c18"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 991,
+            "sha256Normalized": "be3799a074b6b43550a8e5e21091bec07d9f24ab2c12defb557c6a9c65237c93"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 348,
+            "sha256Normalized": "9e9bf0d18c651d1c62af3a9f8c6d4ac671b439a2b7b7e7cdc8812abc46546854"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 344,
+            "sha256Normalized": "b0ffec07cd4b3f094bd5d47d5cc0e118b0f4f7512f6e07030609ae53b9524f90"
+          }
+        ]
+      },
+      {
+        "paper": "2023-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2023-12-3/",
+        "sha256": "8a646d5a30a67ce4e5d87975a5f1a683181e8a83083ed1ab685169efbd420497",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 237,
+            "sha256Normalized": "526203c5c0442d32f34cd2c4c81578be9eebae3f32d201c9d4390bbcc37175fe"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1040,
+            "sha256Normalized": "61b13d5bf735afa5f14c74f698b7eec9ccb80f86c79c9c27dd3de7386d8130af"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 345,
+            "sha256Normalized": "6a353492550f975c92c53a2a3aa19a31bc0384b1523ae3bc01a5896c044ab483"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 343,
+            "sha256Normalized": "14a22637c48298e5d2202a64430010bc62c526783e11466144a924baaa344f16"
+          }
+        ]
+      },
+      {
+        "paper": "2024-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2024-06-1/",
+        "sha256": "0e9899740649c8de8a58589eaa26cfb02b68dfb4b00d6ba6a28a9a6fe347ea21",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 239,
+            "sha256Normalized": "13c5f2035fa6429139dc60333b2ad34520c832b4661c1f9b013f039d3dd6580b"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1022,
+            "sha256Normalized": "620a7174507f098919a4aa5616c9887bfa8b221a482a4afec9afdb6060511cfa"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 349,
+            "sha256Normalized": "267dc463ba9a20f7d1da5ec5173432cacbb72ca314ed3e5dea81130311d11a08"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 350,
+            "sha256Normalized": "e2b4319cca7569f11b8d98f1b67b42f14857b507115feb7154193ff7ca4c067e"
+          }
+        ]
+      },
+      {
+        "paper": "2024-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2024-06-2/",
+        "sha256": "6f1e685b3a0dd9028be56cec529d8add3fba81850136efeaf30ae2ac9e0b45c4",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 263,
+            "sha256Normalized": "e73cded25c9316a469cd96fd44877553d8b1e1def1fbb1adcd4763a8fc07c63c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1036,
+            "sha256Normalized": "ffb7523f6cfb85c10da9f2b796b6345048d3af85de9d6e8cc525b2e3b58b0f65"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 349,
+            "sha256Normalized": "e78d5f70fc7e175b73ee0229ef9b1f3a73e53b3752e0b352b4eeca14d074045b"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 351,
+            "sha256Normalized": "b391feb8fdfd753c6e02fedc35e73fb1da4b6939780aa379beef9acc70800027"
+          }
+        ]
+      },
+      {
+        "paper": "2024-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2024-06-3/",
+        "sha256": "6d0887a1f892c55d4a7b527a6f6918567a8a4f4853272fac1f5e47c3423a23b0",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 266,
+            "sha256Normalized": "05957a5a8fa0164fac824f7a7a12b39fca714895bf6f5da7010c652b1c32e0c2"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1028,
+            "sha256Normalized": "af31ae83af9a3bdb24b370f4be9836a6bba71956b7169ff3db7d68fd6044b1bb"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 348,
+            "sha256Normalized": "b76d26af3453b113b0e5c15682791f4939a54ba5008f8cae5d729a1d431f2b61"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 350,
+            "sha256Normalized": "84c60ca25c10287682a98eb4fadeecf3d1845b414849f8b4b80a69075170bdef"
+          }
+        ]
+      },
+      {
+        "paper": "2024-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2024-12-1/",
+        "sha256": "7ed780393558bda0565bdbedd9c50ef9db78db95b1d376221d57205f13bf2d0f",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 231,
+            "sha256Normalized": "e8943c4a6ca16e2d32ac90ca4fffb0704ffda9c15409116953748ef8c56d3f21"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1019,
+            "sha256Normalized": "a99ec01df814b8d423ee27979cf49e828f4a7cad9dffdba83dce0742c2a15111"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 346,
+            "sha256Normalized": "6635c2a79916255adc67281fd524827530b52f9c42ce46ee44b9c9cd452a007b"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 344,
+            "sha256Normalized": "4cf8a589c38f1f41f59f4c1771e9e6a3539c50a0389877c6caa26f49cf41d20b"
+          }
+        ]
+      },
+      {
+        "paper": "2024-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2024-12-2/",
+        "sha256": "3b87b04130449338c2b7bfc0a81097bdeac00f221d0bef2d61fe0dc62395fb3a",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 235,
+            "sha256Normalized": "3290b867c6827de7c2b8008a0260730445bb70e1f5a6541c04138decbb25f08c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 991,
+            "sha256Normalized": "fa83e66eb986c25aed22b59cc2420c01dc895f6f850c2cbd3f270117fb947006"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 349,
+            "sha256Normalized": "cc2af847422f0178fba81fb68dde0894a2f143a511b32096c3d08aaa1e4a2832"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 348,
+            "sha256Normalized": "83b0eb81752af38338054e0cd0a0ba7c0e3bed10668348948a00d9dd343230e8"
+          }
+        ]
+      },
+      {
+        "paper": "2024-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2024-12-3/",
+        "sha256": "8bef7a218957bfff24076d71e39cca7fb0aa91308ca87aef8cdad109a94819f3",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 236,
+            "sha256Normalized": "51b57565b7b67bed7bb145075d77bdd7c512a588cdc9c67ea6c5ffe3bd952932"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1014,
+            "sha256Normalized": "e291a72e02655ec31589f79d241035ed70d8cae937bfa67d772e521753ccb6d0"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 346,
+            "sha256Normalized": "37d8f4711116c77b4d6e8839e8b533fbce3407b9d1c9f2ffb4aa72d63a318f32"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "6d02cb81deddb4c1cbcaed7990258d700c61ff49ad819097c96d3024dc9acc95"
+          }
+        ]
+      },
+      {
+        "paper": "2025-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2025-06-1/",
+        "sha256": "f1770570ffbd933e0a3196750ef7be209606cb6a8d2bb06f4c3e58060b251b3c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 232,
+            "sha256Normalized": "8b21534d2f3e63deec2390dee3568108664ea84a7084c53010122f63af5a1a70"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1014,
+            "sha256Normalized": "b07d15e0f5b07395bf1641581291f594eb75da1bf9c6e1ce50106106a558c424"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 343,
+            "sha256Normalized": "ebac52341943680f17c4c33f59bff726051a57ecb60e86b6452411cbe4a1db4f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 348,
+            "sha256Normalized": "8b1dd7a9b09074a26b3492efb06b2fac38eb8a50c4acf0d6bae4776dc1cdab6c"
+          }
+        ]
+      },
+      {
+        "paper": "2025-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2025-06-2/",
+        "sha256": "2408ed917f491b47e1e6862bf9082fddeaded85505671cff33781cde85a1c1a2",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 188,
+            "sha256Normalized": "482dbe3b23d68b429b57c96ec7df1841eb648ec290048affce6a4ad6688167e5"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1013,
+            "sha256Normalized": "a4c6213efbda20e3bf95f824a9003a8633cfa0df03f0c42204d0292e2f59c975"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 349,
+            "sha256Normalized": "b02694fdccc738acac2c3552a37e5effc9b05487513a1c0433b07ec3cbc6df0d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 346,
+            "sha256Normalized": "681e0346e1434813d78e47695da523f5b19497a68c60721cbfb66f80ac9544c2"
+          }
+        ]
+      },
+      {
+        "paper": "2025-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2025-06-3/",
+        "sha256": "5d331925caf31c3fbf72485c044f833cc40d945544de3f8fbcbb29ca10f30211",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 238,
+            "sha256Normalized": "b82639a21026f9aff6b632b655b463889ac1a8a659b59ac884e671b5d701dbb3"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1017,
+            "sha256Normalized": "b7042b1be511501553be0ede4fa056d5c6ca3f06de869b2f9f14021d30f7caee"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 349,
+            "sha256Normalized": "5875863bd8d771ae84f95ece3f34794d9c17489219d3049acafae17d0567f99e"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 345,
+            "sha256Normalized": "dae0fd444ef3f3ec9d886f8d061f63c2b175e99f74510c4dec06206618c16961"
+          }
+        ]
+      },
+      {
+        "paper": "2025-12-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2025-12-1/",
+        "sha256": "f99e90771250bf6bc02ad7b2fbad5bf50a3b4871788b54f433b35c8adaac470d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 236,
+            "sha256Normalized": "4dc5112ce31cb7363911f88caa323bc046388edb0e5a36603200cef168a3b300"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1018,
+            "sha256Normalized": "f70221b0427fc098b2008b88e7252ad14e9567d582132775e1d4f12193764b91"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 344,
+            "sha256Normalized": "1b0dda00dcdbe76301abf67de5d156af04314c32a553c3ec56ec097890d18503"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "a2d6a929edb5a19174dd702c00eb3ca587f9ebb514f3b9602d8a4b82cf0c59d5"
+          }
+        ]
+      },
+      {
+        "paper": "2025-12-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2025-12-2/",
+        "sha256": "16cf741c3ff917bc2f3c1b1eda24f578a6a2a38c91d56826872e853000813f3c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 233,
+            "sha256Normalized": "00bdc7f5b882c74e63400275687f60068ef0da08ed1e93ff1a54624d227698bb"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1026,
+            "sha256Normalized": "8f047d7bb2dcfd6640e35ab7b65e3a4716cfbf4a4eb43c1367ca0969d986d7d4"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 350,
+            "sha256Normalized": "597cb2610ead16e7748ceb9b7bc928837775053adc6552916695ef67991b56aa"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 343,
+            "sha256Normalized": "c3030656f7ecd30d94d75cd93070b6e07fb60958384fe7e07fff3a3af16eaae5"
+          }
+        ]
+      },
+      {
+        "paper": "2025-12-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2025-12-3/",
+        "sha256": "4dddbd2f602b51ca4ea0f9513b9a75403119353a2e1af7f587b990696d4715df",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 219,
+            "sha256Normalized": "b7789fe78e0b9de619aef0259414afc51ae82852ed69a3ec250705b5e48397fd"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1015,
+            "sha256Normalized": "9b96abfb019e275a5a79433f57db2a7d646d0ba63ac156a92fedafdfc245e1c2"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 348,
+            "sha256Normalized": "836e8db49ba07ee4e71ddcbad289849c2916dd0d2c788a1d2a80063f5498adb3"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 348,
+            "sha256Normalized": "2008a4c76d966fe0e211f306fa94b5565c5bea65e90d316af05ecfb5bdfae3b7"
+          }
+        ]
+      },
+      {
+        "paper": "2026-06-1",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2026-06-1/",
+        "sha256": "ecc9a5bcd63035a5975d88e6de8aeff856832ca42541737210e2a4da5c2c74ea",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 234,
+            "sha256Normalized": "a046ec55e91b353b3b31d7f531993cef2f70442258ad3ee750848371453c7f30"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1010,
+            "sha256Normalized": "532440a4d2ef9f1cb56ecc952af7774c1307b8adfe93175fbd349eb89054ee78"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 347,
+            "sha256Normalized": "8af13a4cd530d392070c80a6e5865a73ca70e137cda40b2e39a5da3bed4e495e"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 349,
+            "sha256Normalized": "86cbca7e4ca06cbcffcd1aeddfb6e479afd27dcfca09618ae5e9b58acaaf7f71"
+          }
+        ]
+      },
+      {
+        "paper": "2026-06-2",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2026-06-2/",
+        "sha256": "0134e0fd2e58688e7e90383e976f2441758193689eeb3c42c10d898452bc5517",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 246,
+            "sha256Normalized": "60264e41538bdb017b3e5ede9038e23c18731b06a4260ebc81616749eaea9245"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1004,
+            "sha256Normalized": "fbc98d232f3763bb06903aee8edecbe1a7854eba1e170334988150d67e9525b8"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 350,
+            "sha256Normalized": "d768c1a4ed5a4470e0250b5e1520dcb9e353223df71de95471922a401de687ce"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 347,
+            "sha256Normalized": "aa8bcdbe96ea585fd33fd35e1c1794de5f7707d111859113261ff983f9daaa20"
+          }
+        ]
+      },
+      {
+        "paper": "2026-06-3",
+        "url": "https://english-exam.lazynote.cn/cet4/paper/2026-06-3/",
+        "sha256": "28786f0660a19f19feb783e3907666ac642759ed9ce6cc86ae576453f462129c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 231,
+            "sha256Normalized": "2922ea1e72a97dd033d779e1b038565d8593b5639e9a67069ac21d4aba1f487b"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1034,
+            "sha256Normalized": "adeb6455038e2af7409915addef699d6aac24dd286522970f8cf8678da1ede47"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 350,
+            "sha256Normalized": "0439756ede9f571ff788a0262722717d9c54c48b5bd2be489ba6aff335795f27"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 350,
+            "sha256Normalized": "9fb5387a58b293c50d25ad303066ecdc9b32904ae31093ff5340a07b8f6db16f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "exam": "cet6",
+    "downloadedPapers": 76,
+    "papersWithReading": 70,
+    "acceptedPassages": 279,
+    "tokens": 165085,
+    "audit": [
+      {
+        "paper": "2015-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2015-06-1/",
+        "sha256": "a671b35497d2a76e787b33f0ddbda66bd0fa6666e424c74c4e0fce658360d6e3",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 232,
+            "sha256Normalized": "83f6d0c609e6abb5bfc30cb6d20472ff761f235113937201a76243e66cfa1a3e"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1168,
+            "sha256Normalized": "e178bf54249730760a4b031554bfcb3f6a70e72a73b8a0b801b62692fb0e5d5f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 442,
+            "sha256Normalized": "d994add7a5c4fb2fc322664743fd9931bcf322407e3035f7b36dcffd6691d89a"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 449,
+            "sha256Normalized": "51338a5e111e35be502f5f77d55704a1a007bccb9e91462dd583f8c025a27db6"
+          }
+        ]
+      },
+      {
+        "paper": "2015-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2015-06-2/",
+        "sha256": "9d4facb022f3f6407f60db603c0ee6200d4209670da1bb56d00c67b732176853",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 245,
+            "sha256Normalized": "13002a3d32fbfd30e64954ce1f16ee1e26b882ccfc7b916b4f5789b383160976"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1220,
+            "sha256Normalized": "021240adf5287e190c4798027cdb315e71b1e22524eec3d39a3c311ad736722d"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 445,
+            "sha256Normalized": "b328a25dc54d8e44d16dbe582b89e657d176ea45ba961b19f9e92490cc3de184"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 441,
+            "sha256Normalized": "f9ddeab48c46cb04f67a61811f1392d8076062b2a99ca7ccec4b0ef445a4ad60"
+          }
+        ]
+      },
+      {
+        "paper": "2015-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2015-06-3/",
+        "sha256": "53c0a522529837e177101093c049f626c3237da0db69d051a8d94369aca1a838",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 250,
+            "sha256Normalized": "df4e1fb57edec8a5849b2cb31c61a4356008779837bd4a87901136f0390ce29d"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1214,
+            "sha256Normalized": "182113ebe9dfebbde95bbe406b3fc97d8e944b326ead71d2f2b4c919d4480171"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 453,
+            "sha256Normalized": "d614bbc2664726f5d623388c0efe508bab8ef4fad2c5a7425de4f8ea2a6e6408"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 433,
+            "sha256Normalized": "de261a4011c47415e9b5f89744ff237b678e326559d2bc0f4edfc3378dbbee48"
+          }
+        ]
+      },
+      {
+        "paper": "2015-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2015-12-1/",
+        "sha256": "591559ef80f3e676c5754fdc69da038146d1744ff1360d3c3d622304f6423002",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 249,
+            "sha256Normalized": "666914d75546b8da7d38af1bfadc3b518656b7a467123bce8260030d85f50c77"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1168,
+            "sha256Normalized": "772b4600023a4c21c0c30f2fbc6ac41c58fbbc1ffa327aa6adb1cefe398e6ddb"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 445,
+            "sha256Normalized": "bd60f6f1e5a5d894d80049ece6c9e1aded7fe3e9536247bb623eb7a5447b486d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 444,
+            "sha256Normalized": "353ac2c74fddafd6ea52587741dd3136e5833301ab19b14f3a0eb3c5e1577564"
+          }
+        ]
+      },
+      {
+        "paper": "2015-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2015-12-2/",
+        "sha256": "5ca14b428a2c877305bf0fa724c1c0ca2c3894dad7295a63eb53028d4dca42ba",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 265,
+            "sha256Normalized": "3af81d443fbcb2bfebb99b1ce42e023453349c376188e7bb973f9d6bdaf1ef44"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1178,
+            "sha256Normalized": "3505044b5cb62d1d6c18e03f368c8a56df3f287a0a0fec062531abb1ff8c08b4"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 441,
+            "sha256Normalized": "04a7bad0c9be4b6f6282ab4db9033aca2e36df40cf6135bfb891c6a9712e7063"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 439,
+            "sha256Normalized": "c9b342484c2c479e8dd3c27917a650a1143064a2fefd2a74450d00c5c640a972"
+          }
+        ]
+      },
+      {
+        "paper": "2015-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2015-12-3/",
+        "sha256": "d609d24f398ccfdb9d9d2e6100a027557baa37b188c01aecc9b34e0ceef784da",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 251,
+            "sha256Normalized": "07c15ff55689c85b26411443acbd17d32483b3217a42247465b59d6246619917"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1217,
+            "sha256Normalized": "753edd65a9f00fa2a7d0cfedd79589bdfa0307d4aaf65be6d83bd38354736a42"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 442,
+            "sha256Normalized": "f00bbc954c70cade56b149b6605d9dde396fa6fb52b49ffb7eae73828943a570"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 440,
+            "sha256Normalized": "359ba46892d065a50099b77b1d17f6edde74a55453f750c92fcf47922d964137"
+          }
+        ]
+      },
+      {
+        "paper": "2016-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2016-06-1/",
+        "sha256": "e65ff3ed7c0e16b59cf35360de10de7733cb7a69aa9048e400b6b1ad53ba000a",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 251,
+            "sha256Normalized": "a28c8f9ec33a41a5055de25b4b70eb67ce26df18c58a3d3388dc16dc56409028"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1197,
+            "sha256Normalized": "f85aa16dafa4bb9d817c9dc53d6c9aa894f0b5874c7263689297a5e377842a42"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 424,
+            "sha256Normalized": "4d6619efd017bd2dd771d3595363985562b9636f1508afecc0f79575a558e3da"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 447,
+            "sha256Normalized": "2c91715bbe0ad95563f0fd7329ff163efc6d5da07a102fd9e2f38f334e94b119"
+          }
+        ]
+      },
+      {
+        "paper": "2016-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2016-06-2/",
+        "sha256": "838dc773a1c56ad6cb93ec5a19a96d6f4f9d27893180ce5edc3e5e00afce34fa",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 244,
+            "sha256Normalized": "4a5d35e99ea0e4a14ddb1c0a49a146f7aa08646866aa3f3759feb8e39d16ab3a"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1211,
+            "sha256Normalized": "88a7e5261fdaa2d7a512e2eeaea6b30c183a2a0f148c63b1a9cc583ec135656b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 437,
+            "sha256Normalized": "eb73e0ac16415458fc4684993ace6a04a2665385f38beec7ab2ed60b0d8b4cc1"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 445,
+            "sha256Normalized": "689723cb9de06d0d5a876c44d7091fac3da445127e2eade5b6b7c8837df55b96"
+          }
+        ]
+      },
+      {
+        "paper": "2016-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2016-06-3/",
+        "sha256": "8a9711c6f08a4fde1854775fe3e43d7fed628c19fe5e33b9c0f04509a8895b35",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 226,
+            "sha256Normalized": "e758b44ee02e0e7807f6844cfd418a04743b9516dcfa2236c3cbf908d1e146cd"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1190,
+            "sha256Normalized": "5f6ded324270dc2cac681ae0ba28fc14f98d916b51db7e3a2df21ab3f884ab08"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 429,
+            "sha256Normalized": "a69838cccf9bdec09afb68e0f6eb5bbba00b6d43c31dd701032af301259d32b5"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 440,
+            "sha256Normalized": "7aa689e535babf5ec8284aad90051d4143bc379cf99de086fe630d5e03f398e0"
+          }
+        ]
+      },
+      {
+        "paper": "2016-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2016-12-1/",
+        "sha256": "7c3a42d51be527b6e0e1f1a755f33ab4babbd88c22b97e5fbd1b096d631b3c02",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 242,
+            "sha256Normalized": "8717c34219cad6d8eefacef477f68601eb2b3015468a79f396c9c0d474699a72"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1162,
+            "sha256Normalized": "4854e5187e240f72f6c2467eb804e91fd5d20a9fd7bfd965a8b0de8aa1b98feb"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 440,
+            "sha256Normalized": "66723e54311f63dd9f0de50d35af09409afa25058b96645133c5925af61fea78"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 438,
+            "sha256Normalized": "fdc39469497e6e5091743add17943f65f1682186803da8cd1ec51fa739d2f650"
+          }
+        ]
+      },
+      {
+        "paper": "2016-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2016-12-2/",
+        "sha256": "1105fa22f2bd0e6e56303027c40b3e67f51494238a1273968ab371c2c367294b",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 237,
+            "sha256Normalized": "fc9c4de6af1d93690292de20ddfa690eae405432a057d365f0f28508f4feb93a"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1199,
+            "sha256Normalized": "af75cec79857f0d5bb410bc036a136101dd580b9bc94f8ea4c0f5748d36f8ebb"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 439,
+            "sha256Normalized": "295b210775b11840b5648c3441f00ae665e11a3d962ee6bc7c3c810405e820f7"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 446,
+            "sha256Normalized": "30e3f56bec9f8f55f238fbe6bd8546490c80ab4eb8fe4f4e6496441b8a8fae54"
+          }
+        ]
+      },
+      {
+        "paper": "2016-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2016-12-3/",
+        "sha256": "8682799c51dc95f383ee5bb07c32142f1fbc61a791864ffa51b43150a61ec649",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 248,
+            "sha256Normalized": "5217f93a9e737805a4f86ec00112eef1682242ca7768404f8600ad40c58e572f"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1201,
+            "sha256Normalized": "f12ef8f89d4277d793a9ae928a838faa3193d8ed9adfeaf950b5564a23462672"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 441,
+            "sha256Normalized": "a96c4427ce57bacea13f3b7025ca03247e1b55a2d5a57af24cfeaa0c1ed1a001"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 417,
+            "sha256Normalized": "c0ec8c55fc6b0a5823883167f9d4ef0c4500c29b9a7a02aa8fcba52561f4c8bd"
+          }
+        ]
+      },
+      {
+        "paper": "2017-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2017-06-1/",
+        "sha256": "b41b8fa8001b4b6dbb78db172225a9de813c807b090de06473a6731ce9e7ae2d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 285,
+            "sha256Normalized": "921db24dd657d55125084aae416ed3d5c308b6f764f4aeae76ceb10c5f85c548"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1213,
+            "sha256Normalized": "b7467e3ccef8d3b2caac514dd11a2d70719d7d827e60e34f2f3387a3feedd115"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 447,
+            "sha256Normalized": "0856b6653d085c9913967267ac4f5a68d3be038459b4136d2dd3ad16061194a4"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 426,
+            "sha256Normalized": "425d9835265918c6399f895fc14b66953cba54dccbf6bcce027fa60e1e8b8715"
+          }
+        ]
+      },
+      {
+        "paper": "2017-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2017-06-2/",
+        "sha256": "06ad958b300b9cdd6f4fe2d8287ce928ede75dbb8ad1a00b5828a039966cd7b0",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 266,
+            "sha256Normalized": "b177b2062321566dcc630965ad6e2468691675512a7758a1ce19ca526b7c74d0"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1211,
+            "sha256Normalized": "3e68249f8755776c8eff7b8d467586516c0b5eef5a9b16093fed2edea0f0b2de"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 455,
+            "sha256Normalized": "f2072a05ea49aceaac601265e43c9822881627c1eda385eefc234a96cce40500"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 447,
+            "sha256Normalized": "dfd349569ce465ed3f449e854f132d6bff58447af796e3e35ad5d59c6365c15a"
+          }
+        ]
+      },
+      {
+        "paper": "2017-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2017-06-3/",
+        "sha256": "9591b694a7e63aa80dd728f40018d4097d3b28fc7aecfb797a61e7b71689560d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 270,
+            "sha256Normalized": "a560e28098cc313e9c51787e4d5ff6f1bd85c8ce657650018ad4a85445fc012e"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1183,
+            "sha256Normalized": "20cfb380c4d9da536e8635b91237e731d68c70fb28deb38850ce62b849a467d7"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 434,
+            "sha256Normalized": "c7c1aa1fc7e05205325acb0a6e70fb441ddcbeb37c96f5676d0bc56545e5da55"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 440,
+            "sha256Normalized": "3b57d8538e9f7157573b52398b32036cd92bdad81eb85571383c2b276e0e8d29"
+          }
+        ]
+      },
+      {
+        "paper": "2017-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2017-12-1/",
+        "sha256": "78eec11e110c84b4a0a6de885018511e75e01bf6c3dd87305716de0c906ed311",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 272,
+            "sha256Normalized": "6314c483abfd37e9063f1a529a054f2d06ce5b71cf144e3b8c4c71ceb372f147"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1223,
+            "sha256Normalized": "b721b61f9d20e9f6ecbd45e81e9fd001d814f85a26306102e6d60872520b1f8b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 442,
+            "sha256Normalized": "6467b082d900faef39327aba2be50b38bc4bdbd81b9976985b5d1c2faf53234d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 431,
+            "sha256Normalized": "29007d5efe5d6a40d134be39febd23821eafd87ebad0643d2173b838e6a11af5"
+          }
+        ]
+      },
+      {
+        "paper": "2017-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2017-12-2/",
+        "sha256": "188d0777e17e3c45a0e3dc16576f39e4f50b0736c56e6896338553b656e715e0",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 249,
+            "sha256Normalized": "0208166113bcd9e5d83c3e59623b1b8da33f64b1da225ad1747a978b7d4db8d8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1192,
+            "sha256Normalized": "a19830a89bff45a842bf0daae588b20a800cd02b15acc9d7ddd69b452284ac85"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 427,
+            "sha256Normalized": "132a37cae8a93a74ebac97a19feaad1dd3a004a9f935f0296374dff10530d02c"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 441,
+            "sha256Normalized": "c9e63a628069a915f7e25f90fcf789a5d8e6cd837af965e2f18a1201c45f1b20"
+          }
+        ]
+      },
+      {
+        "paper": "2017-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2017-12-3/",
+        "sha256": "b6a2d02945484968f954947a26d9e2772b79c5d71ea9ff5578d66da9f4691b65",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 271,
+            "sha256Normalized": "c03e47ec06a01fed39a1522aaf3dea859fa75b750e5d26f4519e622e32c72a27"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1160,
+            "sha256Normalized": "514884b0345b7e5d1d5323650e66b28c1b4486accd811a5671f86bf8ff59177c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 431,
+            "sha256Normalized": "5740e18a1df7ce767fcdb6d2f848f1b087b75fa20e52588fdcbee5a2daaa4a8a"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 431,
+            "sha256Normalized": "cebd60290f132b2ed9dd8c0f30b539eb5ee94ffa22094fc5d3f9f307128b4be9"
+          }
+        ]
+      },
+      {
+        "paper": "2018-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2018-06-1/",
+        "sha256": "52b69d0207e9df6161ec683325038b11a297c438f7a18f12b84ac699b489695c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 238,
+            "sha256Normalized": "06ec33ed7ea764525bfa504923594ecb65c32b893758b61b681c7d6dc681babb"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1202,
+            "sha256Normalized": "95d20a5cca197aae85560a291aa2906113b5f38bf4f64cc6351e02646ae7592b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 431,
+            "sha256Normalized": "b1fb4cda62be8fc2d11341c835a9c90eb1bc1adf624cb48cdd35b44ae43e19d3"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 433,
+            "sha256Normalized": "5055bbbc73d0f20a7beaef9103c47549df2011c8f72c18b1eef0bb18b466881d"
+          }
+        ]
+      },
+      {
+        "paper": "2018-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2018-06-2/",
+        "sha256": "787cadd3eb11d0f53091e3f6c90067238cfb1dc62c095238e72c44575391432c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 248,
+            "sha256Normalized": "f8cec4d60d352f82e8446b3c3672f31332d5eeb34c1781601a0dcf2422b82aed"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1189,
+            "sha256Normalized": "0d458f15ea05b74853553f31a76770ebf03fcf1de44ad902f7153fb760224966"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 442,
+            "sha256Normalized": "7a536e8b5be02312b2777fa6d2dabf7c41f470d77ba1938ace81813e765f3208"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 450,
+            "sha256Normalized": "be2aaa9eee587ef4e8493815f875425296c12c22138ac27dc7458ca5ff07a6b2"
+          }
+        ]
+      },
+      {
+        "paper": "2018-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2018-06-3/",
+        "sha256": "48016cd58172212b25fd7906bbeb53c6711e3a17401bfcc4124ae68b15efd1e7",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 256,
+            "sha256Normalized": "a7c2b9b131b1c0041d6f793e600565b1c501c8de96a1a33864f83c0789e137d8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1207,
+            "sha256Normalized": "d61d1fb8f0c5298c3666fc25e83d086d981e60442663b638bf14bc954a475653"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 450,
+            "sha256Normalized": "0e05931f66dfaeed3aea035de4c07ba0a8afb666c5bd006ee6fbb04028d26a7a"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 432,
+            "sha256Normalized": "cfcd410422f4d4ce104fdd50467df23df9f834156c753e68497cacec61d27691"
+          }
+        ]
+      },
+      {
+        "paper": "2018-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2018-12-1/",
+        "sha256": "92edea962351ec81f583166dcc09f9c496163462893bc8aff742d6dc795da6e4",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 283,
+            "sha256Normalized": "9151ab37d7f4943ed739ef91a9965fcde9af1797ce332a979824f4b232765139"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1214,
+            "sha256Normalized": "063a4b6e851cd12448be951442fc74bd4796afa60c7af31c9a8976b03235d0af"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 442,
+            "sha256Normalized": "55110ef7942db96ae1883c3dd6d20487ef0ffd8fcc111532d4fd4d3690d0d0f8"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 422,
+            "sha256Normalized": "9069ba76697ca3fdc37cb9920ce8d14ac91f66601c5cb66310c8f3d504feb491"
+          }
+        ]
+      },
+      {
+        "paper": "2018-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2018-12-2/",
+        "sha256": "21daeaa98fa462592d543215dead0d961b9289d0b0e86d305633f4b603ffcb2d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 287,
+            "sha256Normalized": "05f22c6fa5a964b2ce1e7af4129111b0d5768664a5fed757ac9867e624ebeabc"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1232,
+            "sha256Normalized": "180828cf9de99bf67a2fbb5ac818875916a7418ed16334d63ee60fdab54337fb"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 433,
+            "sha256Normalized": "a4c48130b9c0e54b45ed0e6fccd80737cd1f4d43cfbe82177316bd108a27b29c"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "e429b0cd5646a1c383ce23d98617a948ef0fb44f5c2e3f72851c19bd729e96e3"
+          }
+        ]
+      },
+      {
+        "paper": "2018-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2018-12-3/",
+        "sha256": "950a7b1346ca0ecb08da01e065b485f8d4992168dfda743624fef9ae284ef84e",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 274,
+            "sha256Normalized": "faf624a5b44477a44238954527f16c91736f0b756a823309c56a5358ad5a90eb"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1231,
+            "sha256Normalized": "11754afc22f7e059d77e036d6f99dd6c8307c0149e84a7bb6220bd3672fc07db"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 435,
+            "sha256Normalized": "93dd26f923cce238324a72538dfb4397d02071080088b7add8b38c5d779369dd"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 438,
+            "sha256Normalized": "05fea3877da57b188a9045cfc8cab9f08d04fa1b638d69207b342d67bf717135"
+          }
+        ]
+      },
+      {
+        "paper": "2019-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2019-06-1/",
+        "sha256": "9e1219545ad78bf2a8b0197a232494fd7086749ea786b3b83ef7d9e5c680e980",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 260,
+            "sha256Normalized": "3c62bd4e52c2a8562022aea3c5a646f2ee4f1fe119802e134d186d4a9cd7b155"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1193,
+            "sha256Normalized": "351c0b9900becd8e067b7ce54f56dd50960ba8ebc130e8eeb2b06bd50588aecd"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 425,
+            "sha256Normalized": "28a6592ca3b41a96c88099f412255bf36a2c281fa6e740681fdf25971e5d5f16"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 445,
+            "sha256Normalized": "c5fd76173888ed5c078e3b687899733a0a014af57e0521b41dc1f882b41714f9"
+          }
+        ]
+      },
+      {
+        "paper": "2019-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2019-06-2/",
+        "sha256": "4feb666445deb70381426dd3e678030e359e2ebc8cc1dfbb5258bfe831316be3",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 267,
+            "sha256Normalized": "b982bf26a8d161aa107c1390d18e8bfeed5de036db39727ebc27821ddfa6ffb7"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1210,
+            "sha256Normalized": "f720f24baefeccc2f376cc6c3cbb0c5663be319256060f5dc6584bee2a805582"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 414,
+            "sha256Normalized": "35fa6809188ad33fa5cc3575b0868710d50c57f4252b1cf62017a80a96056c3c"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "1bc293be64757f57f80b082eac23d66afb5ae4a93481f70157e7ef573710fa7d"
+          }
+        ]
+      },
+      {
+        "paper": "2019-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2019-06-3/",
+        "sha256": "4ba9cd6346cf9110e7f60222164b3bf900c623d3572d6fbc47fdcae00dd27dc3",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 272,
+            "sha256Normalized": "b73716e9dbe8efcfcaed91c1938f86897a21bf6f6c3c3cea52ccff296c6907db"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1196,
+            "sha256Normalized": "33a9dfd1f3bbf6378eb42694e162cab2e52390d9f7f11916e6a24c7512d66511"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 435,
+            "sha256Normalized": "25b9e7300679c9577f67d4c51c488e8264c842c71862038d02b0ebbae6a0dfa9"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 441,
+            "sha256Normalized": "afecaf3041cd9fdf5947096da797d63852843a330ae735fc8d4ef4007657f9cb"
+          }
+        ]
+      },
+      {
+        "paper": "2019-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2019-12-1/",
+        "sha256": "6cf1b36fb298ace450c2865975726664f126aa9fedc5ab39cd8f95c3aaf29f3d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 264,
+            "sha256Normalized": "7589f899e57e45261b3ab4c0496c1db63d8b78e7f97cf56275d475e8cefc8b3a"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1196,
+            "sha256Normalized": "91657ae597286347887813c56a94affbf5ca99d5f16c107ce3e6d9aa2a61dfc3"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 440,
+            "sha256Normalized": "270d14ccd34d1d7c3c23595dc0e74e51a503ae64120cc62c10c84ce8d3deb367"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 433,
+            "sha256Normalized": "5d78025bc633df1f885264f63c77cc61e3ff557ccd50e7796fee76848c813270"
+          }
+        ]
+      },
+      {
+        "paper": "2019-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2019-12-2/",
+        "sha256": "ca4e793de811d3a5f6b8b1a85adc52d5dff41fe23bfa93ff3396ac8f5bc05c4c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 279,
+            "sha256Normalized": "ff640d3af08af7f54ae984777c33e864dc8447177be0d6c7a43040e93c815f51"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1207,
+            "sha256Normalized": "77430116fb7de43b29720d3df5d26643202bff00645cf521e6a2b0daad3f44cf"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 448,
+            "sha256Normalized": "17f9e61b7c98d97d979fc06ac5f97b571454fc90ded656f4ba17227482e8d13d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 449,
+            "sha256Normalized": "b3cd1f58e5e5919a5da77ce6f00cb5bb3d48e83a371bf4abad8c1102b231dff8"
+          }
+        ]
+      },
+      {
+        "paper": "2019-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2019-12-3/",
+        "sha256": "dad06608a1a153718fa758e343ef0180a4b70e5b4b53aedf78fc8c925ed13cde",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 260,
+            "sha256Normalized": "6260fcd490829584ec28d40236a319a6065a5ae80e008722f3537e0b36a1cd77"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1177,
+            "sha256Normalized": "ca9ee8d4f68e83eaa41ed323ce99f7c2616bc7a7484cb5d1f22ebd57c2ce5dc9"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 444,
+            "sha256Normalized": "a096118190f125df08966a39b3beb8cbc118830f596663be12c84f5aad157d8f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "dc1a93aaac992f9492c863afd3bb99e82e3450ea44b3149e99e80f40bd30e04f"
+          }
+        ]
+      },
+      {
+        "paper": "2020-07-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-07-1/",
+        "sha256": "79492ede5d5807b2ee2e38b5b7f9c759630949f39214974a87cd156958307829",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 253,
+            "sha256Normalized": "98a5f6d4b02eb77ef2f24cc817275bbc12112121c2c5723b97405f44b1db4ffb"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1215,
+            "sha256Normalized": "722b6118ed3c1820f1816953ff34c21f8cdd0ded601f332bed70b3629c9fe87b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 448,
+            "sha256Normalized": "c799ea13d1e5108fdef46834c74ac5d94834edb94be2f9cc08f3b43d003933ff"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 424,
+            "sha256Normalized": "45458cbdb1516cb8cc0a91491749ed6345469b4b431c7d4510f769b72691b9c9"
+          }
+        ]
+      },
+      {
+        "paper": "2020-09-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-09-1/",
+        "sha256": "b22df27f183c937e148924af0461be460aa9e468d4647d89abe87fdf45588e42",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 252,
+            "sha256Normalized": "4881df77950246d12b93850bd9857611070a9e749926b9544c6062cedcf4236b"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1252,
+            "sha256Normalized": "7278a5c7709e94caafd910eab469992de07a3b4f357c2fa83ca429d5a3409818"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 447,
+            "sha256Normalized": "f76a89cc78f50419db632ac41c52d22c11af79f14e329abf5b768b886816c626"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 442,
+            "sha256Normalized": "5af3421473326e5c10d79acacc9a0afd6badbc00f24ae188f902ccb318cc5cc4"
+          }
+        ]
+      },
+      {
+        "paper": "2020-09-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-09-2/",
+        "sha256": "105fed750bf12d7c05efe278ce235e67ab01cade432c608409d9766ea8f2eb56",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "3e92842713854b6f7720d42788cc511274ec9bae4532d24c9479c88bb32e3122"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1212,
+            "sha256Normalized": "71753b7b78e0e44860d0d0d80cfa6842973803494ecba562068684724d8b1560"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 443,
+            "sha256Normalized": "abd4219054d32d171454a19a5a1e407b65fd3ae5cf59a21b99caa3e32ed5be0f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 446,
+            "sha256Normalized": "bd5d944fcc0d88f5692ef3736ed5c1c682f55dab3f7a9fb5c5242334085d7fa9"
+          }
+        ]
+      },
+      {
+        "paper": "2020-09-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-09-3/",
+        "sha256": "01ee70b729c09c2882a7db0a5cfd46c347c9a3d3d43386a99639de58593cd20d",
+        "modules": []
+      },
+      {
+        "paper": "2020-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-12-1/",
+        "sha256": "38b73f890a185c6e6e87a6803c817e90a64bb7717e0b3d8ff1a2ead567982aa6",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 276,
+            "sha256Normalized": "cf19dbabb94eff79c2bae1a3c6646876280a1e7bbadc75fcf26039cd9620e7e8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1246,
+            "sha256Normalized": "efc0e2109efc64959416e599b85531c3d2376a1318b6d9cec3b179ea50a601fc"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 450,
+            "sha256Normalized": "28c1722f2df80ce8dacdf2be061c9157c3486e413d8f0b636e5c5b5e96d9232d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 455,
+            "sha256Normalized": "e062a52c60d6ef4c2d02d804005af4fca64c3ff2c2e00a7fce3f8c665f14477c"
+          }
+        ]
+      },
+      {
+        "paper": "2020-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-12-2/",
+        "sha256": "e58333c59fb1c27810663ee51581e595e155fc5ce1d4100996fcb8fe1cec1c7a",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "22723f584548ce260bfc730e7fd1bd347675df05c948512e81e2e42464e74740"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1236,
+            "sha256Normalized": "ae23fb1ad6aed7488d41d792c04405430a468ced6ef2b639fd43f6f3ec4c551d"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 439,
+            "sha256Normalized": "320f8bf24568e449d37159e479f46a758dcfc79df22d72d92f7b8193d610c3a6"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "c6ce7aa34b8e29603fac7fb81a78ecf0e5fc9470a1d36c601f343c974c5daddc"
+          }
+        ]
+      },
+      {
+        "paper": "2020-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2020-12-3/",
+        "sha256": "253c87741ea58221f6b8d95472a18339778a4e33e73ec3f5822bb976bc710f52",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 253,
+            "sha256Normalized": "a5f619ba0df11d977657591f544e8ba06ce8e8e8bbe29155a135fa4abd18e188"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1237,
+            "sha256Normalized": "c1e6c4c322e6528b8eb3797916befc28d0a200afa19ec8c17b968088f2f37928"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 445,
+            "sha256Normalized": "32b91e2f793713dd178f3401fc6efe75c7c2e8d73f8553e974ee23d5918ca297"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 445,
+            "sha256Normalized": "8e3f8b3f790066b23f3ece565e13286dff1cbd4c307fd17c1cd473bb0e9cea9c"
+          }
+        ]
+      },
+      {
+        "paper": "2021-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2021-06-1/",
+        "sha256": "91c82c2055216d19827f2b956f8f507ef8f26acf536bebfb6b17d4ca49752d9c",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 260,
+            "sha256Normalized": "3790b3d12acf2d7a42bc0d4b61de8ce518ee358151d5ca5c6db9687067c0fc82"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1207,
+            "sha256Normalized": "4076dd6299067a449d7150491fbed5721493477f3297ded844f59d8a8d7bca65"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 453,
+            "sha256Normalized": "c62053513f923b4073f855b5e77c1b1ba024e4d51934dcffb935f7dbc8589767"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "2f035840f70610b8cb43ead535074108e335822649906d56f1e65b40703cc726"
+          }
+        ]
+      },
+      {
+        "paper": "2021-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2021-06-2/",
+        "sha256": "c0915cc1e693f25b631be9f445e50f28799d82f47ac8fbbf5b77ef3c42cb1f07",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 283,
+            "sha256Normalized": "9c94b287a74ea05eebac298f9e1b1f7062eec5b2c49b1cabc8d05f45ca2229d8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1194,
+            "sha256Normalized": "ec32544e344ecf26a566c79a27aee1888e72f41248f2c9359f4876e62c302d7c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 448,
+            "sha256Normalized": "276701fbe8f77c9cf980c530106483ba085b992a51ed501cf727167c75459c15"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 451,
+            "sha256Normalized": "054f3e97bc592f0b7eb65517e83fc8bb41de7ca20172e36759fd3ca5e70b555e"
+          }
+        ]
+      },
+      {
+        "paper": "2021-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2021-06-3/",
+        "sha256": "c484bec0fa4335a1474f195d60caf1f76e740a36f67a3a76703ce42a49b60412",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 289,
+            "sha256Normalized": "cc0bfa996a30cd85de33c3872e8acad36e5dd1254e1233916d1942645b3ed167"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1151,
+            "sha256Normalized": "19adbdb305c9a384b46f2ffe8d6ee428381a7e26d0b3ffa619aff33c26164c8b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 444,
+            "sha256Normalized": "ff58a213bd258726b0bd3fce4985e552f34cf52ff83f64bc0bcfbc2c3fc77ea0"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 431,
+            "sha256Normalized": "cf8058dac3a11ab1d9117e3c6a64a152ef7f5f561bfa8d588fae3acbba2cae76"
+          }
+        ]
+      },
+      {
+        "paper": "2021-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2021-12-1/",
+        "sha256": "7d352e0399bdd66a6cda448b4aec7f301558b910ed98fd16090be5ad98f8ed4e",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 268,
+            "sha256Normalized": "bb75d066ea9036c9984365c96911b121e64e46691143c39ff9fa710df97d8784"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1207,
+            "sha256Normalized": "4e920f4cde1d1d13f14aa7de8f63af6d51af4dcfb019b32cc72cea2538b36dc2"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 448,
+            "sha256Normalized": "1065260fab65e1ba23855d3001caf2f79f6f3afe8ba9eec7867988ca683e22a4"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 454,
+            "sha256Normalized": "d6e8bbbdf528dfe0464c6954fc087f8237f2744fe4194898c080005c491e1f05"
+          }
+        ]
+      },
+      {
+        "paper": "2021-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2021-12-2/",
+        "sha256": "81b53f744104bf985ee8d92a1b9b0e15dd17273f8066685c98b2f3b07a878096",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 264,
+            "sha256Normalized": "00a60c6dd860de1e32b9ba517b82442afbe861a6112fc1c4efc8f97f3d9649c8"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1230,
+            "sha256Normalized": "03c8746c5c039e0790d7ca3709511ee3130fe8cac3ef2722b75cc4e4d0f92989"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 439,
+            "sha256Normalized": "9b90b9a683a74f4549011f14589244f31db9eb33b92df2f3474fd68bc1218cf9"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 450,
+            "sha256Normalized": "4396e2838eb5900fa70c98dfca23d79936d21be369d7ec50fae2a18675d17c3e"
+          }
+        ]
+      },
+      {
+        "paper": "2021-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2021-12-3/",
+        "sha256": "7a5c365ef4123df7bafff7956443c46e11b2405d4f730af870637b8282d8e45e",
+        "modules": [
+          {
+            "section": "part3-section-b",
+            "tokens": 1253,
+            "sha256Normalized": "e0d8af1f71d319e151f02e1de4f73dda92318087ca34e7588feda01dfd9b0dfe"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 447,
+            "sha256Normalized": "96e3faccc95ac9403a285d925576c86c266e508f2174d67ac1f3acb5a23fbcd5"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "0d2c657afaf31572be258cbe58115342051b5073728fb354c0cc0db46b9b52e8"
+          }
+        ]
+      },
+      {
+        "paper": "2022-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-06-1/",
+        "sha256": "b20901c1ca6db53d65ca7d3bd8acdaf57cea408393a170305fce4af72f6231c6",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 253,
+            "sha256Normalized": "ea1b8cfe709247788fe8f8b23fdf1fe1d1bc8d8cdd006e89a3ba30999f065cfd"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1182,
+            "sha256Normalized": "a9b19636ad9b8ea9fe89da00e30e8aadd4ef59d3f57ff07386de258962eee813"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 449,
+            "sha256Normalized": "cdb74c4cf7692c65667bf9a53ff07b0794afec63a47991a6aaef36fcb1331efd"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 446,
+            "sha256Normalized": "5f44a6e133282ef0d4ebec36fc5855f94a157235e4799b97cbf62caded4456b4"
+          }
+        ]
+      },
+      {
+        "paper": "2022-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-06-2/",
+        "sha256": "a3ee9b7361351a473388c125134c4c0c3333562c81c352f4c5cbdb2e527194bd",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 291,
+            "sha256Normalized": "a1d195742506f7fd055c7aab6061a5fef1a92503c403585ab050418debcb9a4c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1218,
+            "sha256Normalized": "180602f6541872767f22bc5e9bfc02616de43c00a216f411e948e1359b8cfff5"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 442,
+            "sha256Normalized": "48872f27b99671cce4fc8e2f30e868220b121cbca29e448b536985dbd630bb0a"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 445,
+            "sha256Normalized": "2e2e5604e60c06b6bb4582fb27e8f6292ecf7394c85c0b2d2dfedeae69f3587b"
+          }
+        ]
+      },
+      {
+        "paper": "2022-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-06-3/",
+        "sha256": "a971ec96859319a2a4ffce959652b205ecc5129034a03bcf6b2b39956aeacbf5",
+        "modules": []
+      },
+      {
+        "paper": "2022-09-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-09-1/",
+        "sha256": "c3f3b5893b79ec04857ff2b17221b79e6fdeb4a209987607a366b73754882379",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 273,
+            "sha256Normalized": "c0f8245c5571f547911955268b25c9305a596ce267043e81dee8b75d9610bfe5"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1197,
+            "sha256Normalized": "b1e0d0abb3d3e72011e8181dc22f025e313c3695824bbd40b0a570c921409ecb"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 449,
+            "sha256Normalized": "9dcd4198e5eecd92c9038c165839b24ae6b633ac7fcabd82ff45d0b85b400bad"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 450,
+            "sha256Normalized": "3f3e4a11012afcb544988fd35021aa58133999c07f6c0e3756ea6530adf0bc7f"
+          }
+        ]
+      },
+      {
+        "paper": "2022-09-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-09-2/",
+        "sha256": "6c4f7930f29cbcb08e6f3f30e6cfa9e938aa9e440117a3a65cbdec9de575796d",
+        "modules": []
+      },
+      {
+        "paper": "2022-09-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-09-3/",
+        "sha256": "98dd1134dcde45864fd56422fa3342e29c59cbc86bf966f12996a6ee81b4f2aa",
+        "modules": []
+      },
+      {
+        "paper": "2022-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-1/",
+        "sha256": "fc5e62265cf3c84a0779139d22548235bf228121250dfee8db0d451558354e1b",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 288,
+            "sha256Normalized": "3773e2f78157631bbd861526983e5737d2e041b6c80f149d3e7d0e243878f954"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1200,
+            "sha256Normalized": "6cc7ec72b2db42b09e66074ebc557c9cb7354482d75313e03733c7b3e007315a"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 444,
+            "sha256Normalized": "95a3348a7097bcb51ad040453837597e1e7d9e067e7b7e32d5cc633be8add59d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 439,
+            "sha256Normalized": "d0f5a48759fc0045a7f7962cf5601ecf7d42a56bfa7fe0e876d7abbf5a81fe6c"
+          }
+        ]
+      },
+      {
+        "paper": "2022-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-2/",
+        "sha256": "0a3cedc655f9439b3742f4ab2b95a5105075ed9863759d1fb3196d28841b4b97",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 291,
+            "sha256Normalized": "de974e2d8b437acd19c7a6eca35ed4838ece217c746c97f29f64299a62a77e8c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1239,
+            "sha256Normalized": "7634af2f727fb0c562de2853deb619446b07ae70fb11e3cb28e9f5b52b56b28e"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 436,
+            "sha256Normalized": "1bde88431124999d87b5e963ad96d9ba42e78bbbdf9de8d03c359dc860680c52"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 442,
+            "sha256Normalized": "59c82afad917c260ec96279b8280255d8cf4b4541f3cc6c60cceaac968f996fe"
+          }
+        ]
+      },
+      {
+        "paper": "2022-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-3/",
+        "sha256": "f77285ec3db1df98f0d3558f5397095edde40a0326ece6a7a15fd338dbabc5e6",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 262,
+            "sha256Normalized": "178e8cf16c494a72c36d09521354751ae24859929e454f0459d27bac8e98d372"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1240,
+            "sha256Normalized": "15d393d745b300cfeacc29e9fa7679b5dcbb2318e749d31c9d71ad201c933ad1"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 446,
+            "sha256Normalized": "e1d46c1f32d5cca714e64097803e5e8273dea6ac7ce9aba139665687e879ac2f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 438,
+            "sha256Normalized": "b7574fb3f7941f48fa3b569b2fa58eb8e34b177eb4762c84880ab7cc1bd58547"
+          }
+        ]
+      },
+      {
+        "paper": "2023-03-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-03-1/",
+        "sha256": "8ce56aacb15573ada39a7267841849c071b8d59620df1579a0c1a59e8ce302cb",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 260,
+            "sha256Normalized": "6341e54d9f5db8098860af29c72fa945421e9922f146c0faed17e39b33c53a07"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1185,
+            "sha256Normalized": "025d68282504ea9a62799362b4d17c779796c04db4715fc738a81b51426f3d21"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 448,
+            "sha256Normalized": "3299b334df1897d650ed2ea12d733264c4df628c78c6444fb5a4620c0706143f"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 442,
+            "sha256Normalized": "bc5ebcec3e2920a701ac47ac00a65d541c82005c280f388beb4b681b13d6b4ae"
+          }
+        ]
+      },
+      {
+        "paper": "2023-03-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-03-2/",
+        "sha256": "5e4bf056e37b85faa5485b9fe9b2545736c880b873ece0d5541a52d06594dbaf",
+        "modules": []
+      },
+      {
+        "paper": "2023-03-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-03-3/",
+        "sha256": "22f178e08c4322bb269581f603aaa6995efcd28682c47913c35edf73f94f0a93",
+        "modules": []
+      },
+      {
+        "paper": "2023-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-1/",
+        "sha256": "2fe694796f198568bac56677d0fe1344393495af3b2740ac59a2e1ffbdfdce3d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "ba8f00992cafeb0c28df3e03d5c82605560677a9f5dad97618ffacac9ba7cd89"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1194,
+            "sha256Normalized": "879eef89b0cc782589a6a47e0d36a605f698248402a61bed35b3cc68f305507b"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 450,
+            "sha256Normalized": "e47201ea9d8afdd7734f74beee6d714d584ca1b4088b9b6a0b28e3c9e6d9328d"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 444,
+            "sha256Normalized": "5c53c7eae26ac55d7afcd0530f4c7937f8a10f13a033db7ccddf30b180f8978d"
+          }
+        ]
+      },
+      {
+        "paper": "2023-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-2/",
+        "sha256": "e803be0e6d2a30875e3a489a7a5ac6336b9c38d8937a49adac06e74d2ab80763",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 274,
+            "sha256Normalized": "246f3a59e44ca18c26dead80ebdc5850bbdfa695c31425e253240dc363db5b26"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1192,
+            "sha256Normalized": "6e3f98d5cc9bcabb91ce979b884a2dc402657921161614ac81fe08d074556b7c"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 450,
+            "sha256Normalized": "b937dec8ab60cea96a6b2702d9ce083610540803d965e748cf91576a2afff15b"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 449,
+            "sha256Normalized": "85d71d09f2ddae742225d5a024e2f81dd0173cacda12d09475e26a37ce2ee35e"
+          }
+        ]
+      },
+      {
+        "paper": "2023-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-3/",
+        "sha256": "7fbb59398e8a7d39e37ee28b1feb589b6ed64211d59aeb9a41eb2c11df6ed99d",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 266,
+            "sha256Normalized": "18951a71aff1106f50cfb422217b2c3df1838dc70f805eddf9540ba2a4e1d575"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1225,
+            "sha256Normalized": "309f7791641daa4a5fd0039ae2afe4399aa614dbb82e9290998d9d761b74c9bf"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 446,
+            "sha256Normalized": "0a69de825c48591696f8c274cd6b2f463d20eefa5ce067341c9a2623aeeefc6c"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 441,
+            "sha256Normalized": "64c74c0913168a22c985fc16e29f70730b0882f94cd7087e9200b6fab27d327b"
+          }
+        ]
+      },
+      {
+        "paper": "2023-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-12-1/",
+        "sha256": "42b7ad4a673f0f3b2eac4ca20471fc9dd7d7759ec1b064270bd4d3b5dae5f962",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 283,
+            "sha256Normalized": "5076278a2e68c32c56d1c274ee9225f23b99a4c45bb33bdd9823c6abc8b82dae"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1200,
+            "sha256Normalized": "23a1ba92e63e9f4d5696036e68b50257f8f13930009ce48813ab27cc6c5670a1"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 447,
+            "sha256Normalized": "98ea2ecbbb68dd458d2ca4bcc52fc1e93a95a4002d557ab4d15a32b67ba31526"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "9263f6385f5a40e27655d9219127a53e9ff8444fc8418b3ed992d91eae302485"
+          }
+        ]
+      },
+      {
+        "paper": "2023-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-12-2/",
+        "sha256": "48cdd65eafe5d3e34ea63ab30e678d646b5c52bea757d130753f706db00c3f71",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 286,
+            "sha256Normalized": "9a242163f6fe8f4fc07f6aab1b897c2b9091ff0dafed5c25e98ba2d45b157884"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1227,
+            "sha256Normalized": "0e756de4cc9e5ef16c2eb04f701e72b5c42e8b025ca656620255fd891cd185c4"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 449,
+            "sha256Normalized": "5c7d5544baf6f5e4b3f87532e5ceeeccd9aaa716bdd04b26b0f51001f724b76b"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 446,
+            "sha256Normalized": "6696e393b284081fd68a9b329354846aaa37cb424b2c6d5c0cfdcd1d51a22477"
+          }
+        ]
+      },
+      {
+        "paper": "2023-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2023-12-3/",
+        "sha256": "3da84eb98f0219377a0c4ac6c5e77e4cb0406d11d252630f8615c70dd547daff",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 266,
+            "sha256Normalized": "0eeab1a303c2431e0bef141303e0db63abbfd4cd288a5e7c514a75b488dacd8a"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1234,
+            "sha256Normalized": "90a4cb9367e29bb1f5cef013e11738efb866f1446ed19ce520a946d6b8b04229"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 448,
+            "sha256Normalized": "86344c90d0ac737cacbb34bbd86db9cf4b5049390a41daaf29b2fea336946043"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 445,
+            "sha256Normalized": "af36d59115e0667cf38464dc74986945d578bbe5a9b177572e294cdf2ab08cbb"
+          }
+        ]
+      },
+      {
+        "paper": "2024-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-1/",
+        "sha256": "28bc14cd84bfe4fc6acf3755e9ff67981da5f245ddf4a208e770a5a8db12b199",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 295,
+            "sha256Normalized": "181dd939fce38e1c58a4ebbc7056567d94e35844c472230cb172452b5615fe4a"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1225,
+            "sha256Normalized": "9fea4fa201fa796b68890ceea9bb67fc42c95545ce4c775c7f64b8a234a36c11"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 449,
+            "sha256Normalized": "dde5b0307b30b707bb2cacd452c2a40fe0052a9d0505b9ecae5e94594e051f44"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 436,
+            "sha256Normalized": "0ddb5e590c5b0460d4118c45b6c50255e3bb28cc9ff21c308b3c7ae4034e345c"
+          }
+        ]
+      },
+      {
+        "paper": "2024-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-2/",
+        "sha256": "c047124174ea94a414c7480b1c852586d2a1888bfb3a3373dc2c200c8c39b793",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 294,
+            "sha256Normalized": "40691b73ad788a63273399f6f39a038458534558a1bc4f81f9d467668270b9ca"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1252,
+            "sha256Normalized": "7e2001b0fec0ae65a25c1562765ad5cfe54f3c4e512b90e968d8e145aa1b3bd7"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 447,
+            "sha256Normalized": "8cf0efc1a8fc1ed6d206942014e4335a973c604916cdfa75268fc745cbf97bfb"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "6ed799e836b2f24e4aefec03d56b0bcafa3adba3248338746abd4b59185cc54a"
+          }
+        ]
+      },
+      {
+        "paper": "2024-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-3/",
+        "sha256": "e71b03feac2a85282b7ce480fd416b155f09ebcd7f9fc0386a70bc7383ba83d9",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 287,
+            "sha256Normalized": "0120414c4aa6df8a9107b16f29f72c7b010dc7ab91c3671ffe02b7af924507db"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1209,
+            "sha256Normalized": "32ab1f77d562ca9985ffab7c1176e9481ba99587258f440ec79e37ac86c1229d"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 444,
+            "sha256Normalized": "fe3600e9b896b08982d310622a6b06d6696891c256feec93efc3c65c86825b03"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 443,
+            "sha256Normalized": "5eb4588f2f619e9dc5aacc029273f84554e817137d74348f2b87bb675a5841db"
+          }
+        ]
+      },
+      {
+        "paper": "2024-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2024-12-1/",
+        "sha256": "551ee33178f885185454d400ea95236209d49ab67ca43ee7ab064236ed33d752",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 273,
+            "sha256Normalized": "04c05e503b27f40a151a00da5b02f03cf4acb5362bde6c8f8c55424c8ee456e1"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1208,
+            "sha256Normalized": "f01f4352d485739ee02e5c8e9d4af1b0569ae8e04446b01f99ff9fed3d1c4f8f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 449,
+            "sha256Normalized": "3c79adc8d724ffc16f4ed69cd80ffd5a9b5da7d9cc2d21d6dcbe746853bcf1a5"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 447,
+            "sha256Normalized": "682084a0c0f2be4df6168fb5d2c951c7635a23b08ea6e70e685b278bab709257"
+          }
+        ]
+      },
+      {
+        "paper": "2024-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2024-12-2/",
+        "sha256": "2f88e23dd73b2c57a7a0c843d98329378e2ef5f7410ebd774e1bb660617788a6",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "bbd642cddde3d83db42f7e41241e81133086808344a2358d865e8e574ad1b4fc"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1224,
+            "sha256Normalized": "a6f9150fb48883410537ed4003f015efa54a2858a7f8acac044aa93275c0c537"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 450,
+            "sha256Normalized": "65bccc66fa0101f9cb7078b93470f3fd5a7b10ed799cb05b3667f237786fb8b6"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 450,
+            "sha256Normalized": "2b25f90830e205bfe835aa739614ad2cd29c567a069aa830c7fa4d3d88203898"
+          }
+        ]
+      },
+      {
+        "paper": "2024-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2024-12-3/",
+        "sha256": "3e3b33ac982cd8a11791d272673410f9239f4c6a4a4c1ed5b8d2f9a4f6bbddc8",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 285,
+            "sha256Normalized": "5a1ba3a9f26f9c7b08b6f0be7a1ae8269bc7818f3de8dc660f5ff8381a52b48c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1218,
+            "sha256Normalized": "9c23666e051bae2493f209dd9592ba2937a350f1517ebb9381d318f668d12d48"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 444,
+            "sha256Normalized": "fde9e23cc1e828b6b3b4892eca200e55e25f8466a096e293a038e274ba69011b"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "043bf366549076c289b352d144dc477b7b0a101dfd18fbce15da4c15cf945366"
+          }
+        ]
+      },
+      {
+        "paper": "2025-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-1/",
+        "sha256": "ebdbf3eab65f90ff26f559754d9937bd93414539cf3b61720c19ff1a34d164db",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 290,
+            "sha256Normalized": "5fcfa76d04631036673404dccd1f06b60bb09ec22eac006376e28bf6cb65fd05"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1232,
+            "sha256Normalized": "4ab5fb2b37d4228bb53bc56a7e71738bb01c63dfb7c07d59b5c9731f2e09fdde"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 444,
+            "sha256Normalized": "ccb323bfea2d61a1af559bdcbb3209846c9d9adb3a79116030c08a2d381c9233"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 450,
+            "sha256Normalized": "99de05a60f5889e662f05f466ca58a9301b7f297dcabad8c502e7a0521554c5a"
+          }
+        ]
+      },
+      {
+        "paper": "2025-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-2/",
+        "sha256": "f5de08719bd3cc693ad4c370d645dd78a80846d9a6fe8e2b62fd9b642ae6000b",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "3a0e0d5f165732f74c608885e0f1e9a8020b2d0fc8fabd57757b818b8b1fc902"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1189,
+            "sha256Normalized": "3a6b32816348bf2893d376710d11ca1569d302b820a378e4b7cff0acff4053f2"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 451,
+            "sha256Normalized": "e8fe8b8961c7b9e95cd466a4a8de04bd77c7a3889b0ffd2ef3626ff3b6ed7531"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "542ab5f3c82894a54df41e6c9c24a23eff0ae0592a2c1f6634154980fa213270"
+          }
+        ]
+      },
+      {
+        "paper": "2025-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-3/",
+        "sha256": "ddcf4173182923354d5d828dcd48c15d5e035807b18685d3ed78987781e19cf1",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 274,
+            "sha256Normalized": "21d04e67e9760161da7c087f8519cc3f07f3fc923c4c048dc8f1826c4edd3c6c"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1217,
+            "sha256Normalized": "71c8e6fb3344f91b992d31d28ad5c46c74d6b9d5947893e7654eccadbe519e7f"
+          },
+          {
+            "section": "part3-section-c-1",
+            "tokens": 450,
+            "sha256Normalized": "79baa654f89cf997d15c3da0572529d97901bca929c2a87264655a43fcf79efd"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 441,
+            "sha256Normalized": "bc20339494a4cf056b1c41a5ef0bfaf8917f9a240cc05519315e83da97d8e96d"
+          }
+        ]
+      },
+      {
+        "paper": "2025-12-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-1/",
+        "sha256": "d2814a1913f894c574ba348d9c15e1a2fecf1bdf3d850c7d7094e4660a5c641a",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "74b103958e31b932fc53c7759c29c70a6f482bb980116c24644a502f945aad66"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1224,
+            "sha256Normalized": "913240341fa3057788816247115275b039aa9f2fb10275a56bda8207f4d2288c"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 448,
+            "sha256Normalized": "f8eed05e97987ebdcd0e553be052d1634464e9f25c76da7e127aded0a0ebdf51"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "47bbeb399beff07a3a55093751ec20623c356e809a37fe842f02cd1656446156"
+          }
+        ]
+      },
+      {
+        "paper": "2025-12-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-2/",
+        "sha256": "84ba2cc73902e4dc4c886a986432d9ffe50daaf1d53f1f57fec3631fe9e8bfb2",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 290,
+            "sha256Normalized": "107749f18a5caac846582653041d0a7fe32944ab18b5dcec9702503e11c12625"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1217,
+            "sha256Normalized": "87f7b0fd855425dabb257a083ecd560f789854e66aabbc9747a4e08e762b6cf9"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 441,
+            "sha256Normalized": "0c9331c12ddf36dd651ea1a862e35d4f5febd50c1c8fb579ecbb1d6b1a277f82"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 440,
+            "sha256Normalized": "151a6437349f0ce3d6552cc18b4138f84b3df43540f6d6a43409e6fdfe3634f6"
+          }
+        ]
+      },
+      {
+        "paper": "2025-12-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-3/",
+        "sha256": "3b7adb15fa69cdc107415b279d408ec88be67802ac73fd4f0cfe7b35dfcc3de5",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 283,
+            "sha256Normalized": "20e8de8539ae39f46903601a5e7ee45fdf07378e1a50a6ada3d4229006e92d9a"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1224,
+            "sha256Normalized": "c30af6236f2630b04cb2ebe70646404f06397471643f175105b8c3341a090ce7"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 452,
+            "sha256Normalized": "9325b6f913838a37fa8e5c6d9ee3f757e9a720caabe8e8e8c450fc7d7df10e1a"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "18c7edcf40e5ba2850e4187d1b31167049571df877ebcba1f81e2c135c6514d1"
+          }
+        ]
+      },
+      {
+        "paper": "2026-06-1",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2026-06-1/",
+        "sha256": "8ac873818371190678fbb49d3a003bd6337594755e455d73cb9ee21beb81f793",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 277,
+            "sha256Normalized": "16b38539e50065002d960297625a5114fc866d5d021b47d766e7d8410f926664"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1214,
+            "sha256Normalized": "733a77cc594e92e8fd33fbf57d79a29c494a2f68adedcdbfda3414056e5b94b3"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 448,
+            "sha256Normalized": "161752ab2ad2d3770fef7e83bb81b20bc55b5fd7b56580082118363bb87418db"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 437,
+            "sha256Normalized": "33f42058a9af61dc96fb70a6c6d469b14bf86db2ce01eacb2880dcfc553c6f4c"
+          }
+        ]
+      },
+      {
+        "paper": "2026-06-2",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2026-06-2/",
+        "sha256": "2cb56998f1d2777a1b21d56a9fb4ad368c98204389e0921a742d88e37ce8e635",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 270,
+            "sha256Normalized": "337e7a7ae73e5ab57ee9d243f8437f24ec3c93d8fdef8c5a7022c6a59079a731"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1201,
+            "sha256Normalized": "d76107d4eda6b9066171ef65e6e7477f408c44c700292f79c2d5feba0c4d7069"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 448,
+            "sha256Normalized": "c4ca50265db1aa6f6bbd7db9e0afc4195ce5a4e2ae4a1a57f186b2b362d173fa"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 448,
+            "sha256Normalized": "8af8b0fad3952770996b32729a5bf30ebf6fc84413555671860b657364645b15"
+          }
+        ]
+      },
+      {
+        "paper": "2026-06-3",
+        "url": "https://english-exam.lazynote.cn/cet6/paper/2026-06-3/",
+        "sha256": "912ee58ff33242cc663367c1ad9647ca9722f3931a38441ab63610ce3a3d7507",
+        "modules": [
+          {
+            "section": "part3-section-a",
+            "tokens": 280,
+            "sha256Normalized": "f5dd67d99397ade3768340810980ba3d503f423110c55aa4b7813e74d7797836"
+          },
+          {
+            "section": "part3-section-b",
+            "tokens": 1242,
+            "sha256Normalized": "02d31e13c9293324b1284316fca025aaeda52db40cf819fcbdb34e4f9a7e0e39"
+          },
+          {
+            "section": "part3-section-c",
+            "tokens": 445,
+            "sha256Normalized": "e76e859b843c3c221f75e284e10a7bf906642cbf9b44cec3ebcb11dfbfbf7f21"
+          },
+          {
+            "section": "part3-section-c-2",
+            "tokens": 444,
+            "sha256Normalized": "45692436826fbcdb514130ed58af8f33e01b778152a5cb0e1414ed25cd1153b1"
+          }
+        ]
+      }
+    ]
+  }
+]
